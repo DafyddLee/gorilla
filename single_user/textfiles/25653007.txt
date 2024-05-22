@@ -1,0 +1,3041 @@
+
+Lab: 1
+Patient Find >> Episode Cumulative Results
+00:29:54  Dr Hendrik Kruger
+MRN75681865
+ST06483129	
+KRISTEN	
+ANTHONY	
+27/03/2003			
+• • •
+Episode Cumulative Results
+Episode	ST06483129
+Date collected	03/05/2024
+Time collected	12:00
+Authorised by A Mlomo on 03/05/2024 at 21:37
+International Normalised Ratio:
+INR 1.31 Prothrombin Time Patient 14.8 H sec 9.9 - 12.3 Prothrombin Time Control 12.8 sec
+
+For most conditions requiring oral anticoagulation with warfarin: Recommended target INR is 2.5 (target range 2.0 - 3.0) For patients with a mechanical heart valve prosthesis:
+Recommended INR target
+No risk factors Risk factors present Thrombogenicity Low 2.5 3.0
+Medium 3.0 3.5
+High 3.5 3.5 Ref: Guidelines on oral anticoagulation with warfarin - fourth edition. British Journal of Haematology, 2011; 154, p311-324.
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by B Gqiba on 30/03/2022 at 12:03
+
+International Normalised Ratio:
+INR 4.32 Prothrombin Time Patient 44.7 H sec 9.9 - 12.3 Prothrombin Time Control 12.8 sec
+
+For most conditions requiring oral anticoagulation with warfarin: Recommended target INR is 2.5 (target range 2.0 - 3.0) For patients with a mechanical heart valve prosthesis:
+Recommended INR target
+No risk factors Risk factors present Thrombogenicity Low 2.5 3.0
+Medium 3.0 3.5
+High 3.5 3.5 Ref: Guidelines on oral anticoagulation with warfarin - fourth edition. British Journal of Haematology, 2011; 154, p311-324.
+Episode	ST04303467
+Date collected	23/09/2021
+Time collected	11:26
+Int Normalised Ratio (INR)
+Coagulation tube underfilled. The correct proportion of blood to anticoagulant is essential for accurate coagulation studies. This test was not done as the results would be inaccurate and misleading.
+Episode	ST04154837
+Date collected	22/07/2021
+Time collected	09:10
+Authorised by VG Kenneth on 22/07/2021 at 11:16
+
+International Normalised Ratio:
+INR 2.39 Prothrombin Time Patient 28.4 H sec 9.9 - 12.3 Prothrombin Time Control 12.8 sec
+
+For most conditions requiring oral anticoagulation with warfarin: Recommended target INR is 2.5 (target range 2.0 - 3.0) For patients with a mechanical heart valve prosthesis:
+Recommended INR target
+No risk factors Risk factors present Thrombogenicity Low 2.5 3.0
+Medium 3.0 3.5
+High 3.5 3.5 Ref: Guidelines on oral anticoagulation with warfarin - fourth edition. British Journal of Haematology, 2011; 154, p311-324.
+Episode	ST04096764
+Date collected	25/06/2021
+Time collected	09:00
+Authorised by VG Kenneth on 25/06/2021 at 13:55
+
+International Normalised Ratio:
+INR 3.08 Prothrombin Time Patient 33.4 H sec 9.9 - 12.3 Prothrombin Time Control 12.8 sec
+
+For most conditions requiring oral anticoagulation with warfarin: Recommended target INR is 2.5 (target range 2.0 - 3.0) For patients with a mechanical heart valve prosthesis:
+Recommended INR target
+No risk factors Risk factors present Thrombogenicity Low 2.5 3.0
+Medium 3.0 3.5
+High 3.5 3.5 Ref: Guidelines on oral anticoagulation with warfarin - fourth edition. British Journal of Haematology, 2011; 154, p311-324.
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Int Normalised Ratio (INR)
+Coagulation tube underfilled. The correct proportion of blood to anticoagulant is essential for accurate coagulation studies. This test was not done as the results would be inaccurate and misleading.
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by V Pulo on 15/12/2020 at 14:21
+
+International Normalised Ratio:
+INR 4.14 Prothrombin Time Patient 44.3 H sec 9.9 - 12.3 Prothrombin Time Control 12.8 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST03676187
+Date collected	02/12/2020
+Time collected	09:15
+Authorised by V Danileyo on 02/12/2020 at 15:45
+
+International Normalised Ratio:
+INR 4.46 Prothrombin Time Patient 47.5 H sec 9.9 - 12.3 Prothrombin Time Control 12.8 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST03618000
+Date collected	04/11/2020
+Time collected	08:40
+Authorised by V Danileyo on 04/11/2020 at 16:50
+
+International Normalised Ratio:
+INR 2.10 Prothrombin Time Patient 23.0 H sec 9.9 - 12.3 Prothrombin Time Control 12.8 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST03350227
+Date collected	10/06/2020
+Time collected	09:20
+Int Normalised Ratio (INR)
+Coagulation tube underfilled. The correct proportion of blood to anticoagulant is essential for accurate coagulation studies. This test was not done as the results would be inaccurate and misleading.
+Episode	ST03281362
+Date collected	30/04/2020
+Time collected	08:30
+Authorised by A Mlomo on 30/04/2020 at 16:25
+
+International Normalised Ratio:
+INR 3.40 Prothrombin Time Patient 35.6 H sec 9.9 - 12.3 Prothrombin Time Control 11.5 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST03198491
+Date collected	09/03/2020
+Time collected	07:02
+Authorised by WN Bilikwa on 09/03/2020 at 17:33
+
+International Normalised Ratio:
+INR 2.98 Prothrombin Time Patient 32.5 H sec 9.9 - 12.3 Prothrombin Time Control 12.0 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by L Kilian ** on 02/03/2020 at 14:52
+
+International Normalised Ratio:
+INR 2.02 Prothrombin Time Patient 22.6 H sec 9.9 - 12.3 Prothrombin Time Control 12.1 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST03139573
+Date collected	10/02/2020
+Time collected	07:15
+Authorised by L Kilian ** on 10/02/2020 at 15:11
+
+International Normalised Ratio:
+INR 3.03 Prothrombin Time Patient 33.0 H sec 9.9 - 12.3 Prothrombin Time Control 11.9 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST03115711
+Date collected	29/01/2020
+Time collected	14:00
+Authorised by AN Forbes on 29/01/2020 at 19:31
+
+International Normalised Ratio:
+INR 1.41 Prothrombin Time Patient 16.2 H sec 9.9 - 12.3 Prothrombin Time Control 12.5 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST03052523
+Date collected	19/12/2019
+Time collected	
+Authorised by WF Kleinhans on 20/12/2019 at 00:48
+
+International Normalised Ratio:
+INR 1.11 Prothrombin Time Patient 13.1 H sec 9.9 - 12.3 Prothrombin Time Control 12.5 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02995320
+Date collected	18/11/2019
+Time collected	
+Authorised by I Barendse ** on 18/11/2019 at 15:48
+
+International Normalised Ratio:
+INR 1.06 Prothrombin Time Patient 12.4 H sec 9.9 - 12.3 Prothrombin Time Control 11.7 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02953393
+Date collected	28/10/2019
+Time collected	07:00
+Authorised by V Pulo on 28/10/2019 at 15:46
+
+International Normalised Ratio:
+INR 1.65 Prothrombin Time Patient 18.7 H sec 9.9 - 12.3 Prothrombin Time Control 12.9 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02926101
+Date collected	14/10/2019
+Time collected	07:00
+Authorised by WF Kleinhans on 15/10/2019 at 05:07
+
+International Normalised Ratio:
+INR 1.37 Prothrombin Time Patient 15.8 H sec 9.9 - 12.3 Prothrombin Time Control 12.9 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02830125
+Date collected	26/08/2019
+Time collected	07:05
+Authorised by VG Kenneth on 26/08/2019 at 15:27
+
+International Normalised Ratio:
+INR 2.18 Prothrombin Time Patient 24.3 H sec 9.9 - 12.3 Prothrombin Time Control 12.9 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02790792
+Date collected	05/08/2019
+Time collected	07:10
+Authorised by VG Kenneth on 05/08/2019 at 15:03
+
+International Normalised Ratio:
+INR 1.41 Prothrombin Time Patient 16.2 H sec 9.9 - 12.3 Prothrombin Time Control 12.9 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02730617
+Date collected	08/07/2019
+Time collected	09:00
+Authorised by VG Kenneth on 08/07/2019 at 15:38
+
+International Normalised Ratio:
+INR 2.34 Prothrombin Time Patient 26.1 H sec 9.9 - 12.3 Prothrombin Time Control 12.9 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02671318
+Date collected	10/06/2019
+Time collected	07:15
+Authorised by WN Bilikwa on 10/06/2019 at 16:29
+
+International Normalised Ratio:
+INR 2.79 Prothrombin Time Patient 30.7 H sec 9.9 - 12.3 Prothrombin Time Control 12.9 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02608497
+Date collected	13/05/2019
+Time collected	07:05
+Authorised by MJ du Plessis on 13/05/2019 at 15:25
+
+International Normalised Ratio:
+INR 1.85 Prothrombin Time Patient 21.0 H sec 9.9 - 12.3 Prothrombin Time Control 12.9 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02555356
+Date collected	15/04/2019
+Time collected	09:00
+Authorised by MJ du Plessis on 15/04/2019 at 16:12
+
+International Normalised Ratio:
+INR 1.92 Prothrombin Time Patient 21.9 H sec 9.9 - 12.3 Prothrombin Time Control 12.4 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02496484
+Date collected	18/03/2019
+Time collected	07:30
+Authorised by V Pulo on 18/03/2019 at 15:39
+
+International Normalised Ratio:
+INR 1.18 Prothrombin Time Patient 14.0 H sec 9.9 - 12.3 Prothrombin Time Control 12.4 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02417953
+Date collected	11/02/2019
+Time collected	07:05
+Authorised by L Kilian ** on 11/02/2019 at 16:54
+
+International Normalised Ratio:
+INR 2.34 Prothrombin Time Patient 26.3 H sec 9.9 - 12.3 Prothrombin Time Control 13.1 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02387812
+Date collected	28/01/2019
+Time collected	07:10
+Authorised by MJ du Plessis on 28/01/2019 at 19:02
+
+International Normalised Ratio:
+INR 1.14 Prothrombin Time Patient 13.6 H sec 9.9 - 12.3 Prothrombin Time Control 13.1 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02289438
+Date collected	27/11/2018
+Time collected	07:00
+Authorised by L van Schalkwyk on 27/11/2018 at 16:29
+
+International Normalised Ratio:
+INR 2.19 Prothrombin Time Patient 24.0 H sec 9.9 - 12.3 Prothrombin Time Control 13.1 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02261406
+Date collected	12/11/2018
+Time collected	07:00
+Authorised by M Yalezo on 12/11/2018 at 16:54
+
+International Normalised Ratio:
+INR 1.75 Prothrombin Time Patient 19.6 H sec 9.9 - 12.3 Prothrombin Time Control 13.1 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02235479
+Date collected	29/10/2018
+Time collected	07:10
+Authorised by CF Bam** on 29/10/2018 at 15:10
+
+International Normalised Ratio:
+INR 1.07 Prothrombin Time Patient 12.5 H sec 9.9 - 12.3 Prothrombin Time Control 13.1 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02133528
+Date collected	06/09/2018
+Time collected	07:25
+Authorised by MJ du Plessis on 06/09/2018 at 17:23
+
+International Normalised Ratio:
+INR 1.76 Prothrombin Time Patient 19.6 H sec 9.9 - 12.3 Prothrombin Time Control 12.5 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST02100426
+Date collected	21/08/2018
+Time collected	07:15
+Authorised by A Truter on 21/08/2018 at 21:50
+
+International Normalised Ratio:
+INR 1.01 Prothrombin Time Patient 11.7 sec 9.9 - 12.3 Prothrombin Time Control 12.8 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST01974415
+Date collected	19/06/2018
+Time collected	09:20
+Authorised by A Mlomo *** on 19/06/2018 at 14:12
+
+International Normalised Ratio:
+INR 0.94 Prothrombin Time Patient 11.0 sec 9.9 - 12.3 Prothrombin Time Control 11.7 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST01909312
+Date collected	16/05/2018
+Time collected	10:27
+Authorised by V Absalom on 16/05/2018 at 18:20
+
+International Normalised Ratio:
+INR 0.92 Prothrombin Time Patient 10.8 sec 9.9 - 12.3 Prothrombin Time Control 10.9 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST01681252
+Date collected	22/01/2018
+Time collected	
+Authorised by V Pulo on 22/01/2018 at 23:27
+
+International Normalised Ratio:
+INR 2.09 Prothrombin Time Patient 22.9 H sec 9.9 - 12.3 Prothrombin Time Control 12.3 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST01660198
+Date collected	10/01/2018
+Time collected	11:30
+Authorised by MJ du Plessis on 10/01/2018 at 17:11
+
+International Normalised Ratio:
+INR 3.56 Prothrombin Time Patient 36.8 H sec 9.9 - 12.3 Prothrombin Time Control 11.8 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST01658308
+Date collected	09/01/2018
+Time collected	08:30
+Int Normalised Ratio (INR)
+Specimen received is unsuitable for test. Citrate (blue top) specimen required
+Episode	ST01613012
+Date collected	07/12/2017
+Time collected	09:04
+Authorised by A Mlomo *** on 07/12/2017 at 15:20
+
+International Normalised Ratio:
+INR 2.07 Prothrombin Time Patient 22.7 H sec 9.9 - 12.3 Prothrombin Time Control 11.4 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST01610378
+Date collected	06/12/2017
+Time collected	08:55
+Authorised by MJ du Plessis on 06/12/2017 at 14:16
+
+International Normalised Ratio:
+INR 1.60 Prothrombin Time Patient 18.1 H sec 9.9 - 12.3 Prothrombin Time Control 12.0 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST01604749
+Date collected	03/12/2017
+Time collected	10:00
+Authorised by WF Kleinhans on 03/12/2017 at 15:07
+
+International Normalised Ratio:
+INR 1.56 Prothrombin Time Patient 17.7 H sec 9.9 - 12.3 Prothrombin Time Control 12.1 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST01597782
+Date collected	29/11/2017
+Time collected	11:35
+Authorised by MJ du Plessis on 29/11/2017 at 16:09
+
+International Normalised Ratio:
+INR 1.59 Prothrombin Time Patient 18.0 H sec 9.9 - 12.3 Prothrombin Time Control 12.3 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST01580732
+Date collected	20/11/2017
+Time collected	11:15
+Authorised by A Mlomo *** on 20/11/2017 at 15:51
+
+International Normalised Ratio:
+INR 1.11 Prothrombin Time Patient 13.0 H sec 9.9 - 12.3 Prothrombin Time Control 12.2 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST01577101
+Date collected	17/11/2017
+Time collected	12:00
+Authorised by A Mlomo *** on 17/11/2017 at 15:12
+
+International Normalised Ratio:
+INR 1.53 Prothrombin Time Patient 17.4 H sec 9.9 - 12.3 Prothrombin Time Control 11.8 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST01567451
+Date collected	13/11/2017
+Time collected	12:50
+Authorised by A Mlomo *** on 13/11/2017 at 18:45
+
+International Normalised Ratio:
+INR 2.81 Prothrombin Time Patient 29.8 H sec 9.9 - 12.3 Prothrombin Time Control 11.8 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	ST01563529
+Date collected	10/11/2017
+Time collected	11:20
+Authorised by CF Bam** on 10/11/2017 at 18:29
+
+International Normalised Ratio:
+INR 3.71 Prothrombin Time Patient 39.4 H sec 9.9 - 12.3 Prothrombin Time Control 11.9 sec
+
+Paediatric target levels: - The target INR is 3.0 (range 2.5 - 3.5) for patients with valvular heart disease, antiphospholipid syndrome and warfarin failure. - The target INR is 2.5 (range 2.0 - 3.0) for other indications. Ref: Schapkaitz E, et al. Paediatric Anticoagulation Guidelines. South African Medical Journal 2012; 102, p171-175.
+Episode	SA07130422
+Date collected	13/10/2023
+Time collected	08:50
+Authorised by Instrument on 13/10/2023 at 14:10
+C-Reactive protein 10 H mg/L <10
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by Instrument on 10/05/2023 at 14:51
+C-Reactive protein 7 mg/L <10
+Episode	ST05173614
+Date collected	28/09/2022
+Time collected	12:40
+Authorised by Instrument on 28/09/2022 at 22:33
+C-Reactive protein 33 H mg/L <10
+Episode	ST04555163
+Date collected	19/01/2022
+Time collected	10:47
+Authorised by Instrument on 19/01/2022 at 20:15
+C-Reactive protein 3 mg/L <10
+Episode	ST04303467
+Date collected	23/09/2021
+Time collected	11:26
+Authorised by Instrument on 23/09/2021 at 15:11
+C-Reactive protein 13 H mg/L <10
+Episode	ST04154837
+Date collected	22/07/2021
+Time collected	09:10
+Authorised by Instrument on 22/07/2021 at 11:02
+C-Reactive protein 38 H mg/L <10
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by Instrument on 23/06/2021 at 18:04
+C-Reactive protein 81 H mg/L <10
+
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by Instrument on 15/12/2020 at 13:00
+C-Reactive protein 4 mg/L <10
+
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Instrument on 02/03/2020 at 14:31
+C-Reactive protein 52 H mg/L <10
+
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by Instrument on 05/12/2018 at 15:23
+C-Reactive protein 23 H mg/L <10
+
+Episode	ST01857294
+Date collected	18/04/2018
+Time collected	10:25
+Authorised by Instrument on 18/04/2018 at 17:38
+C-Reactive protein 3 mg/L <10
+
+Episode	ST01621471
+Date collected	12/12/2017
+Time collected	10:55
+Authorised by Instrument on 12/12/2017 at 16:40
+C-Reactive protein <1 mg/L <10
+
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by Instrument on 14/11/2017 at 22:51
+C-Reactive protein 65 H mg/L <10
+
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by Dr M Barkhuizen on 06/11/2017 at 14:52
+C-Reactive protein 282 H mg/L <10
+
+Episode	ST01550557
+Date collected	04/11/2017
+Time collected	07:30
+C-reactive protein
+Information on request form and specimen do not match
+Episode	ST01546498
+Date collected	02/11/2017
+Time collected	11:40
+Authorised by Prof AE Zemlin on 02/11/2017 at 20:07
+C-Reactive protein 199 H mg/L <10
+Episode	ST01542630
+Date collected	01/11/2017
+Time collected	
+Authorised by I Smit** on 01/11/2017 at 11:53
+C-Reactive protein 154 H mg/L <10
+
+Episode	ST01450654
+Date collected	15/09/2017
+Time collected	17:30
+Authorised by Dr M Barkhuizen on 17/09/2017 at 10:28
+C-Reactive protein 123 H mg/L <10
+
+Date Collected	13/10/2023	10/05/2023	28/09/2022	30/03/2022	19/01/2022	23/09/2021	22/07/2021	23/06/2021	15/12/2020	10/06/2020	02/03/2020	29/01/2020	29/01/2020	03/01/2020	19/12/2019	05/12/2018	16/05/2018	14/02/2018	12/12/2017	17/11/2017	15/09/2017
+Time Collected	08:50	10:19	12:40	10:13	10:47	11:26	09:10	12:50	10:30	09:20	10:08	14:00	13:25	11:15	?	07:55	10:27	11:00	10:55	12:00	17:30
+Episode	SA07130422	ST05677716	ST05173614	ST04730259	ST04555163	ST04303467	ST04154837	ST04091179	ST03703509	ST03350227	ST03183481	ST03115711	ST03115897	ST03067096	ST03052523	ST02304532	ST01909312	ST01729714	ST01621471	ST01577101	ST01450654
+White Cell Cou	5.48	6.22	6.43	12.73 H	8.20	10.82	15.96 H	6.91	8.26	5.88	7.40	TF	5.03	9.80	4.62	11.04	9.37	12.41	13.55 H	7.87	9.06
+Episode	SA07130422
+Date collected	13/10/2023
+Time collected	08:50
+Authorised by Instrument on 13/10/2023 at 14:10
+Creatinine 40 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 144 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by Instrument on 10/05/2023 at 14:51
+Creatinine 41 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 143 mL/min/1.73 m2
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	ST05173614
+Date collected	28/09/2022
+Time collected	12:40
+Authorised by Instrument on 28/09/2022 at 22:33
+Creatinine 47 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 138 mL/min/1.73 m2
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by Instrument on 30/03/2022 at 12:09
+Creatinine 43 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 142 mL/min/1.73 m2
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	ST04555163
+Date collected	19/01/2022
+Time collected	10:47
+Authorised by Instrument on 19/01/2022 at 20:15
+Creatinine 49 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 137 mL/min/1.73 m2
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	ST04303467
+Date collected	23/09/2021
+Time collected	11:26
+Authorised by Instrument on 23/09/2021 at 15:11
+Creatinine 43 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 143 mL/min/1.73 m2
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	ST04154837
+Date collected	22/07/2021
+Time collected	09:10
+Authorised by Instrument on 22/07/2021 at 11:02
+Creatinine 56 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 131 mL/min/1.73 m2
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by Instrument on 23/06/2021 at 16:31
+Creatinine 46 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 139 mL/min/1.73 m2
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by Instrument on 15/12/2020 at 13:00
+Creatinine 56 umol/L 39 - 85
+Estimation of GFR is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST03350227
+Date collected	10/06/2020
+Time collected	09:20
+Authorised by Instrument on 10/06/2020 at 19:03
+Creatinine 39 umol/L 39 - 85
+Estimation of GFR is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Instrument on 02/03/2020 at 14:31
+Creatinine 42 umol/L 39 - 85
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST03115711
+Date collected	29/01/2020
+Time collected	14:00
+Authorised by Instrument on 29/01/2020 at 18:50
+Creatinine 39 umol/L 39 - 85
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST03115897
+Date collected	29/01/2020
+Time collected	13:25
+Authorised by Instrument on 29/01/2020 at 21:51
+Creatinine 39 umol/L 39 - 85
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST03052523
+Date collected	19/12/2019
+Time collected	
+Authorised by J Malherbe on 20/12/2019 at 01:01
+Creatinine 35 L umol/L 39 - 85
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST02438943
+Date collected	20/02/2019
+Time collected	11:40
+Authorised by Instrument on 20/02/2019 at 20:49
+Creatinine 39 umol/L 39 - 85
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by Instrument on 05/12/2018 at 15:23
+Creatinine 43 umol/L 39 - 85
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST02267071
+Date collected	14/11/2018
+Time collected	11:47
+Authorised by M Hoffman on 15/11/2018 at 02:56
+Creatinine 37 L umol/L 39 - 85
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST02102992
+Date collected	22/08/2018
+Time collected	10:32
+Authorised by Instrument on 22/08/2018 at 22:15
+Creatinine 44 umol/L 39 - 85
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST02047653
+Date collected	25/07/2018
+Time collected	12:00
+Authorised by Instrument on 26/07/2018 at 03:28
+Creatinine 39 umol/L 39 - 85
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST01909312
+Date collected	16/05/2018
+Time collected	10:27
+Authorised by Dr M Hoffmann** on 16/05/2018 at 16:36
+Creatinine 36 L umol/L 39 - 85
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST01857294
+Date collected	18/04/2018
+Time collected	10:25
+Authorised by Instrument on 18/04/2018 at 17:38
+Creatinine 42 umol/L 39 - 85
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST01729714
+Date collected	14/02/2018
+Time collected	11:00
+Authorised by M Hoffman on 15/02/2018 at 01:42
+Creatinine 46 umol/L 40 - 72
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST01681252
+Date collected	22/01/2018
+Time collected	
+Authorised by Dr L Uuyuni ** on 22/01/2018 at 23:01
+Creatinine 34 L umol/L 40 - 72
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST01660198
+Date collected	10/01/2018
+Time collected	11:30
+Authorised by Instrument on 10/01/2018 at 18:48
+Creatinine 41 umol/L 40 - 72
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST01621471
+Date collected	12/12/2017
+Time collected	10:55
+Authorised by Dr M Barkhuizen on 12/12/2017 at 16:33
+Creatinine 33 L umol/L 40 - 72
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST01592221
+Date collected	26/11/2017
+Time collected	11:00
+Authorised by WD Kruger on 26/11/2017 at 20:52
+Creatinine 31 L umol/L 40 - 72
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST01577101
+Date collected	17/11/2017
+Time collected	12:00
+Authorised by Dr M Barkhuizen on 17/11/2017 at 16:42
+Creatinine 31 L umol/L 40 - 72
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Instrument on 07/11/2017 at 12:18
+Creatinine 40 umol/L 40 - 72
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	ST01550557
+Date collected	04/11/2017
+Time collected	07:30
+Creatinine (plus eGFR)
+Information on request form and specimen do not match
+Episode	ST01542630
+Date collected	01/11/2017
+Time collected	
+Authorised by Instrument on 01/11/2017 at 11:45
+Creatinine 46 umol/L 40 - 72
+Estimation of GFR using the MDRD (4-variable) equation is not performed if patient's age is less than 18 years or unknown, or if patient's sex is unknown.
+Episode	SA07130422
+Date collected	13/10/2023
+Time collected	08:50
+Authorised by Instrument on 13/10/2023 at 14:10
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by Instrument on 10/05/2023 at 14:51
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST05173614
+Date collected	28/09/2022
+Time collected	12:40
+Authorised by Instrument on 28/09/2022 at 22:33
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by Instrument on 30/03/2022 at 12:09
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST04555163
+Date collected	19/01/2022
+Time collected	10:47
+Authorised by Instrument on 19/01/2022 at 20:15
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST04303467
+Date collected	23/09/2021
+Time collected	11:26
+Authorised by Instrument on 23/09/2021 at 15:11
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST04154837
+Date collected	22/07/2021
+Time collected	09:10
+Authorised by Instrument on 22/07/2021 at 11:02
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by Instrument on 23/06/2021 at 16:32
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by Instrument on 15/12/2020 at 13:00
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST03350227
+Date collected	10/06/2020
+Time collected	09:20
+Authorised by Instrument on 10/06/2020 at 19:03
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Instrument on 02/03/2020 at 14:31
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST03115711
+Date collected	29/01/2020
+Time collected	14:00
+Authorised by Instrument on 29/01/2020 at 18:50
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST03115897
+Date collected	29/01/2020
+Time collected	13:25
+Authorised by Instrument on 29/01/2020 at 21:51
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST03052523
+Date collected	19/12/2019
+Time collected	
+Authorised by Instrument on 20/12/2019 at 00:56
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST02438943
+Date collected	20/02/2019
+Time collected	11:40
+Authorised by Instrument on 20/02/2019 at 20:49
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by Instrument on 05/12/2018 at 15:23
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST02267071
+Date collected	14/11/2018
+Time collected	11:47
+Authorised by Instrument on 15/11/2018 at 02:48
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST02102992
+Date collected	22/08/2018
+Time collected	10:32
+Authorised by Instrument on 22/08/2018 at 22:15
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST02047653
+Date collected	25/07/2018
+Time collected	12:00
+Authorised by Instrument on 26/07/2018 at 03:28
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST01909312
+Date collected	16/05/2018
+Time collected	10:27
+Authorised by Instrument on 16/05/2018 at 16:26
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST01857294
+Date collected	18/04/2018
+Time collected	10:25
+Authorised by Instrument on 18/04/2018 at 17:38
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST01729714
+Date collected	14/02/2018
+Time collected	11:00
+Authorised by Instrument on 15/02/2018 at 00:40
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Trace
+Episode	ST01681252
+Date collected	22/01/2018
+Time collected	
+Authorised by Instrument on 22/01/2018 at 22:59
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST01660198
+Date collected	10/01/2018
+Time collected	11:30
+Authorised by Instrument on 10/01/2018 at 18:48
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST01621471
+Date collected	12/12/2017
+Time collected	10:55
+Authorised by Instrument on 12/12/2017 at 16:23
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST01592221
+Date collected	26/11/2017
+Time collected	11:00
+Authorised by K van der Merwe ** on 26/11/2017 at 20:47
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST01577504
+Date collected	17/11/2017
+Time collected	
+Authorised by Instrument on 17/11/2017 at 22:30
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST01577101
+Date collected	17/11/2017
+Time collected	12:00
+Authorised by Instrument on 17/11/2017 at 16:20
+Indices in serum: Haemoglobin index Trace Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Instrument on 07/11/2017 at 12:18
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by Instrument on 05/11/2017 at 11:52
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST01550557
+Date collected	04/11/2017
+Time collected	07:30
+Serum indices
+Information on request form and specimen do not match
+Episode	ST01542630
+Date collected	01/11/2017
+Time collected	
+Authorised by Instrument on 01/11/2017 at 11:45
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Date Collected	13/10/2023	10/05/2023	28/09/2022	30/03/2022	19/01/2022	23/09/2021	22/07/2021	23/06/2021	15/12/2020	10/06/2020	02/03/2020	29/01/2020	29/01/2020	03/01/2020	20/12/2019	19/12/2019	05/12/2018	14/11/2018	22/08/2018	16/05/2018	18/04/2018	14/02/2018	10/01/2018	12/12/2017	26/11/2017	20/11/2017	17/11/2017	10/11/2017	07/11/2017	04/11/2017	01/11/2017
+Time Collected	08:50	10:19	12:40	10:13	10:47	11:26	09:10	12:50	10:30	09:20	10:08	14:00	13:25	11:15	?	?	07:55	11:47	10:32	10:27	10:25	11:00	11:30	10:55	11:00	11:15	12:00	11:20	08:00	07:30	?
+Episode	SA07130422	ST05677716	ST05173614	ST04730259	ST04555163	ST04303467	ST04154837	ST04091179	ST03703509	ST03350227	ST03183481	ST03115711	ST03115897	ST03067096	ST03054109	ST03052523	ST02304532	ST02267071	ST02102992	ST01909312	ST01857294	ST01729714	ST01660198	ST01621471	ST01592221	ST01580732	ST01577101	ST01563529	ST01554167	ST01550557	ST01542630
+White Cell Cou	5.48	6.22	6.43	12.73 H	8.20	10.82	15.96 H	6.91	8.26	5.88	7.40	TF	5.03	9.80	3.47 L	4.62	11.04	4.69	8.34	9.37	15.31 H	12.41	15.70 H	13.55 H	11.38	6.85	7.87	8.66	9.94	TF	8.32
+Red Cell Count	4.47	4.82 H	4.59	3.94	4.49	4.35	4.85 H	4.53	4.21	4.65	4.01	TF	3.72 L	3.99	4.18	3.99	4.04	4.33	4.57	4.72	4.61	4.73	5.18 H	4.53	3.90	3.68 L	3.40 L	2.92 L	2.97 L	TF	3.61 L
+Haemoglobin	12.5	13.3	11.9 L	8.3 L	8.9 L	9.3 L	11.1 L	10.1 L	11.0 L	9.8 L	10.0 L	TF	9.6 L	10.5 L	11.0 L	10.2 L	10.8 L	11.8 L	13.1	13.7	13.4	13.2	13.1	11.2 L	9.1 L	8.8 L	8.3 L	6.9 L	7.1 L	TF	8.9 L
+Haematocrit	0.381	0.415	0.386	0.263 L	0.320 L	0.319 L	0.366	0.345 L	0.340 L	0.349 L	0.328 L	TF	0.317 L	0.333 L	0.336 L	0.319 L	0.345 L	0.365	0.417	0.433	0.425	0.442	0.458	0.383	0.323 L	0.305 L	0.288 L	0.240 L	0.234 L	TF	0.295 L
+MCV	85.2	86.1	84.0	66.6 L	71.4 L	73.2 L	75.6 L	76.1 L	80.8	75.1 L	81.8	TF	85.2	83.4	80.4	80.0	85.3	84.4	91.2	91.7	92.2	93.5	88.4	84.5	82.8	82.8	84.6	82.4	78.8 L	TF	81.7
+MCH	28.0	27.6	25.8 L	21.1 L	19.8 L	21.4 L	22.9 L	22.4 L	26.0 L	21.0 L	24.8 L	TF	25.7 L	26.2	26.4	25.6 L	26.7	27.2	28.6	29.1	29.1	27.9	25.3 L	24.6 L	23.3 L	23.8 L	24.5 L	23.8 L	23.8 L	TF	24.6 L
+Platelet Count	272	318	267	393	364	272	378	276	199	249	387	TF	181 L	128 L	39 L	40 L	134 L	185 L	325	135 L	257	337	394	576 H	317	604 H	813 H	718 H	557 H	TF	218
+Episode	SA07130422
+Date collected	13/10/2023
+Time collected	08:50
+Authorised by Instrument on 13/10/2023 at 14:10
+Alanine transaminase (ALT) 13 U/L 7 - 35
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by Instrument on 10/05/2023 at 14:51
+Alanine transaminase (ALT) 14 U/L 7 - 35
+
+Episode	ST05173614
+Date collected	28/09/2022
+Time collected	12:40
+Authorised by Instrument on 28/09/2022 at 22:33
+Alanine transaminase (ALT) 11 U/L 7 - 35
+
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by Instrument on 30/03/2022 at 12:09
+Alanine transaminase (ALT) 10 U/L 7 - 35
+
+Episode	ST04555163
+Date collected	19/01/2022
+Time collected	10:47
+Authorised by Instrument on 19/01/2022 at 20:15
+Alanine transaminase (ALT) 12 U/L 7 - 35
+
+Episode	ST04303467
+Date collected	23/09/2021
+Time collected	11:26
+Authorised by Instrument on 23/09/2021 at 15:11
+Alanine transaminase (ALT) 15 U/L 7 - 35
+
+Episode	ST04154837
+Date collected	22/07/2021
+Time collected	09:10
+Authorised by Instrument on 22/07/2021 at 11:02
+Alanine transaminase (ALT) 14 U/L 7 - 35
+
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by Instrument on 23/06/2021 at 16:31
+Alanine transaminase (ALT) 17 U/L 7 - 35
+
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by Instrument on 15/12/2020 at 13:00
+Alanine transaminase (ALT) 20 U/L 5 - 20
+
+Episode	ST03350227
+Date collected	10/06/2020
+Time collected	09:20
+Authorised by Instrument on 10/06/2020 at 19:03
+Alanine transaminase (ALT) 11 U/L 5 - 20
+
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Instrument on 02/03/2020 at 14:31
+Alanine transaminase (ALT) 13 U/L 5 - 20
+
+Episode	ST03115711
+Date collected	29/01/2020
+Time collected	14:00
+Authorised by Instrument on 29/01/2020 at 18:50
+Alanine transaminase (ALT) 11 U/L 5 - 20
+
+Episode	ST03115897
+Date collected	29/01/2020
+Time collected	13:25
+Authorised by Instrument on 29/01/2020 at 21:51
+Alanine transaminase (ALT) 9 U/L 5 - 20
+
+Episode	ST01909312
+Date collected	16/05/2018
+Time collected	10:27
+Authorised by Instrument on 16/05/2018 at 16:26
+Alanine transaminase (ALT) 13 U/L 5 - 20
+
+Episode	ST01621471
+Date collected	12/12/2017
+Time collected	10:55
+Authorised by Instrument on 12/12/2017 at 16:23
+Alanine transaminase (ALT) 17 U/L 5 - 20
+
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Instrument on 07/11/2017 at 17:18
+Alanine transaminase (ALT) 11 U/L 5 - 20
+
+Episode	SA07130422
+Date collected	13/10/2023
+Time collected	08:50
+Authorised by Dr JE Koen on 13/10/2023 at 14:33
+Iron 20.7 umol/L 9.0 - 30.4
+
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by Dr A Davids on 10/05/2023 at 14:54
+Iron 11.1 umol/L 9.0 - 30.4
+
+Episode	ST05173614
+Date collected	28/09/2022
+Time collected	12:40
+Authorised by N Tshapile on 28/09/2022 at 22:59
+Iron 5.1 L umol/L 9.0 - 30.4
+
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by Dr OJ Wiese on 30/03/2022 at 12:29
+Iron 2.5 L umol/L 9.0 - 30.4
+
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Dr M Hoffmann** on 07/11/2017 at 13:00
+Iron 1.9 L umol/L 9.0 - 30.4
+
+Episode	SA07130422
+Date collected	13/10/2023
+Time collected	08:50
+Authorised by Dr JE Koen on 13/10/2023 at 14:33
+Transferrin 3.31 g/L 2.00 - 3.60 % Saturation 25 % 15 - 50
+
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by Dr A Davids on 10/05/2023 at 14:54
+Transferrin 3.47 g/L 2.00 - 3.60 % Saturation 13 L % 15 - 50
+
+Episode	ST05173614
+Date collected	28/09/2022
+Time collected	12:40
+Authorised by N Tshapile on 28/09/2022 at 22:59
+Transferrin 3.51 g/L 2.00 - 3.60 % Saturation 6 L % 15 - 50
+
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by Dr OJ Wiese on 30/03/2022 at 12:29
+Transferrin 4.33 H g/L 2.00 - 3.60 % Saturation 2 L % 15 - 50
+
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Dr M Hoffmann** on 07/11/2017 at 13:00
+Transferrin 0.66 L g/L 2.00 - 3.60 % Saturation 11 L* % 15 - 50
+
+Episode	SA07130422
+Date collected	13/10/2023
+Time collected	08:50
+Authorised by Dr JE Koen on 13/10/2023 at 14:33
+Ferritin 52 ug/L 13 - 150
+
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by Instrument on 10/05/2023 at 14:51
+Ferritin 22 ug/L 13 - 150
+
+Episode	ST05173614
+Date collected	28/09/2022
+Time collected	12:40
+Authorised by N Tshapile on 28/09/2022 at 22:59
+Ferritin 69 ug/L 13 - 150
+
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by Dr OJ Wiese on 30/03/2022 at 12:29
+Ferritin 9 L ug/L 13 - 150
+
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Dr L Uuyuni ** on 07/11/2017 at 12:42
+Ferritin 138 H ug/L 13 - 68
+
+Episode	SA07130422
+Date collected	13/10/2023
+Time collected	08:50
+Authorised by Instrument on 13/10/2023 at 14:10
+Total cholesterol 4.79 mmol/L
+
+CHOLESTEROL TREATMENT TARGETS (per CV Event Risk Category): Risk Category: TC target: LDL-C target:
+Low/Moderate Risk <5.0 mmol/L <3.0 mmol/L High Risk <4.5 mmol/L <2.5 mmol/L
+
+Aim for a reduction of at least 50%
+if baseline LDL-C is 2.5-5.2 mmol/L Very High Risk <4.0 mmol/L <1.8 mmol/L
+Aim for a reduction of at least 50%
+if baseline LDL-C is 1.8-3.5 mmol/L
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by Instrument on 15/12/2020 at 13:00
+Total cholesterol 5.91 mmol/L
+CHOLESTEROL TREATMENT TARGETS: Categories: Very High Risk High Risk Moderate/Low Risk Total Cholesterol < 4.0 mmol/L < 4.5 mmol/L < 5.0 mmol/L LDL Cholesterol < 1.8 mmol/L < 2.5 mmol/L < 3.0 mmol/L Framingham 10-year CVD Risk Score NA 15-30 3-15/<3
+Episode	ST03115711
+Date collected	29/01/2020
+Time collected	14:00
+Authorised by Instrument on 29/01/2020 at 18:50
+Total cholesterol 4.76 mmol/L
+CHOLESTEROL TREATMENT TARGETS: Categories: Very High Risk High Risk Moderate/Low Risk Total Cholesterol < 4.0 mmol/L < 4.5 mmol/L < 5.0 mmol/L LDL Cholesterol < 1.8 mmol/L < 2.5 mmol/L < 3.0 mmol/L Framingham 10-year CVD Risk Score NA 15-30 3-15/<3
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by Dr N Naidoo** on 05/12/2018 at 15:52
+Total cholesterol 3.73 mmol/L
+CHOLESTEROL TREATMENT TARGETS: Categories: Very High Risk High Risk Moderate/Low Risk Total Cholesterol < 4.0 mmol/L < 4.5 mmol/L < 5.0 mmol/L LDL Cholesterol < 1.8 mmol/L < 2.5 mmol/L < 3.0 mmol/L Framingham 10-year CVD Risk Score NA 15-30 3-15/<3
+Episode	ST02102992
+Date collected	22/08/2018
+Time collected	10:32
+Authorised by Instrument on 22/08/2018 at 22:15
+Total cholesterol 5.26 mmol/L
+CHOLESTEROL TREATMENT TARGETS: Categories: Very High Risk High Risk Moderate/Low Risk Total Cholesterol < 4.0 mmol/L < 4.5 mmol/L < 5.0 mmol/L LDL Cholesterol < 1.8 mmol/L < 2.5 mmol/L < 3.0 mmol/L Framingham 10-year CVD Risk Score NA 15-30 3-15/<3
+Episode	ST01577504
+Date collected	17/11/2017
+Time collected	
+Authorised by Instrument on 17/11/2017 at 22:30
+Total cholesterol 6.17 mmol/L
+CHOLESTEROL TREATMENT TARGETS: Categories: Very High Risk High Risk Moderate/Low Risk Total Cholesterol < 4.0 mmol/L < 4.5 mmol/L < 5.0 mmol/L LDL Cholesterol < 1.8 mmol/L < 2.5 mmol/L < 3.0 mmol/L Framingham 10-year CVD Risk Score NA 15-30 3-15/<3
+Episode	SA07130422
+Date collected	13/10/2023
+Time collected	08:50
+Authorised by Instrument on 13/10/2023 at 14:10
+Thyroid stimulating hormone 1.02 mIU/L 0.27 - 4.20
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by Instrument on 10/05/2023 at 14:51
+Thyroid stimulating hormone 0.83 mIU/L 0.27 - 4.20
+
+Episode	ST05173614
+Date collected	28/09/2022
+Time collected	12:40
+Authorised by N Tshapile on 28/09/2022 at 23:44
+Thyroid stimulating hormone 0.37 L mIU/L 0.51 - 4.30
+
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by Dr RB Banderker on 15/12/2020 at 13:03
+Thyroid stimulating hormone 1.02 mIU/L 0.51 - 4.30
+
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Dr RB Banderker on 02/03/2020 at 14:51
+Thyroid stimulating hormone 1.25 mIU/L 0.51 - 4.30
+
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by Dr N Naidoo** on 05/12/2018 at 15:42
+Thyroid stimulating hormone 1.99 mIU/L 0.51 - 4.30
+
+Episode	ST01909312
+Date collected	16/05/2018
+Time collected	10:27
+Authorised by Dr M Hoffmann** on 16/05/2018 at 17:01
+Thyroid stimulating hormone 0.66 mIU/L 0.51 - 4.30
+
+Episode	ST05677811
+Date collected	10/05/2023
+Time collected	
+Authorised by Instrument on 10/05/2023 at 17:12
+Urine creatinine 5.8 mmol/L
+
+Episode	ST05173051
+Date collected	28/09/2022
+Time collected	12:14
+Authorised by Instrument on 28/09/2022 at 17:15
+Urine creatinine 9.7 mmol/L
+
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by Instrument on 30/03/2022 at 12:18
+Urine creatinine 19.7 mmol/L
+
+Episode	ST04555163
+Date collected	19/01/2022
+Time collected	10:47
+Authorised by Dr RB Banderker on 19/01/2022 at 16:40
+Urine creatinine 11.9 mmol/L
+
+Episode	ST04303609
+Date collected	23/09/2021
+Time collected	11:20
+Authorised by Instrument on 23/09/2021 at 16:08
+Urine creatinine 4.4 mmol/L
+
+Episode	ST04091368
+Date collected	23/06/2021
+Time collected	12:55
+Authorised by Dr TP Jalavu on 23/06/2021 at 17:25
+Urine creatinine 39.0 mmol/L
+
+Episode	ST03703835
+Date collected	15/12/2020
+Time collected	10:50
+Authorised by Instrument on 15/12/2020 at 16:17
+Urine creatinine 19.8 mmol/L
+
+Episode	ST03117287
+Date collected	29/01/2020
+Time collected	14:00
+Authorised by Dr MC Bezuidenhout ** on 30/01/2020 at 11:15
+Urine creatinine 12.1 mmol/L
+
+Episode	ST02438943
+Date collected	20/02/2019
+Time collected	11:40
+Authorised by PJ van der Merwe on 20/02/2019 at 21:23
+Urine creatinine 6.0 mmol/L
+
+Episode	ST02305288
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by Dr EC Kruger on 05/12/2018 at 17:41
+Urine creatinine 16.4 mmol/L
+
+Episode	ST02306476
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by Dr M Barkhuizen on 06/12/2018 at 10:26
+Urine creatinine 17.0 mmol/L
+
+Episode	ST02267074
+Date collected	14/11/2018
+Time collected	11:30
+Authorised by M Hoffman on 15/11/2018 at 02:07
+Urine creatinine 5.7 mmol/L
+
+Episode	ST02102992
+Date collected	22/08/2018
+Time collected	10:32
+Authorised by M Hoffman on 22/08/2018 at 21:53
+Urine creatinine 7.6 mmol/L
+
+Episode	ST02047653
+Date collected	25/07/2018
+Time collected	12:00
+Authorised by M Hoffman on 26/07/2018 at 03:47
+Urine creatinine 7.7 mmol/L
+
+Episode	ST01857294
+Date collected	18/04/2018
+Time collected	10:25
+Authorised by Dr L Uuyuni ** on 18/04/2018 at 17:22
+Urine creatinine 9.9 mmol/L
+
+Episode	ST01729714
+Date collected	14/02/2018
+Time collected	11:00
+Authorised by M Hoffman on 14/02/2018 at 23:49
+Urine creatinine 8.0 mmol/L
+
+Episode	ST01681255
+Date collected	22/01/2018
+Time collected	
+Authorised by Dr L Uuyuni ** on 22/01/2018 at 22:51
+Urine creatinine 3.6 mmol/L
+
+Episode	ST01660198
+Date collected	10/01/2018
+Time collected	11:30
+Authorised by Dr M Hoffmann** on 10/01/2018 at 17:55
+Urine creatinine 14.1 mmol/L
+
+Episode	ST01621721
+Date collected	12/12/2017
+Time collected	10:40
+Authorised by Dr M Barkhuizen on 12/12/2017 at 20:41
+Urine creatinine 2.3 mmol/L
+
+Episode	ST01621985
+Date collected	12/12/2017
+Time collected	10:40
+Authorised by Dr L Uuyuni ** on 13/12/2017 at 12:52
+Urine creatinine 2.3 mmol/L
+
+Episode	ST01575279
+Date collected	16/11/2017
+Time collected	18:30
+Authorised by J Malherbe on 17/11/2017 at 01:41
+Urine creatinine 4.4 mmol/L
+
+Episode	ST01554640
+Date collected	07/11/2017
+Time collected	08:10
+Authorised by Prof AE Zemlin on 14/11/2017 at 12:46
+Urine creatinine 9.0 mmol/L
+
+Episode	ST05677811
+Date collected	10/05/2023
+Time collected	
+Authorised by Instrument on 10/05/2023 at 17:12
+Urine protein 0.07 g/L
+
+Urine protein	creat ratio	0.012	g/mmol creat <0.015
+KDIGO guidelines to interpreting urine protein:creatinine ratio
+CKD is defined as abnormalities of kidney structure or function, present for >3 months, with implications for health. CKD is classified based on cause, GFR category (G1-G5), and albuminuria/proteinura category (A1-A3).
+
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) A1 Normal to mildly increased <0.015 <0.15 A2 Moderately increased 0.015-0.050 0.15-0.50 A3 Severely increased >0.050 >0.50 Nephrotic syndrome (adult) >0.350 >3.50 Nephrotic syndrome (child) >0.200 >3.00 Preferred specimen: early morning specimen. Repeat to confirm persistent proteinuria. Note that the urine protein assay detects mainly albumin, and may be unsuitable for the detection of tubular / overflow low molecular weight proteinuria. References: (1) Kidney Disease: Improving Global Outcomes (KDIGO) Clinical practice guideline for the evaluation and management of chronic kidney disease 2012. (2) KDIGO Clinical practice guideline for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease - mineral and bone disorder (CKD-MBD) 2009 and 2017. (3) KDIGO Clinical practice guideline on glomerular diseases; public review 2020.
+Episode	ST05173051
+Date collected	28/09/2022
+Time collected	12:14
+Authorised by Instrument on 28/09/2022 at 17:15
+Urine protein 0.13 g/L
+Urine protein	creat ratio	0.013	g/mmol creat <0.015
+KDIGO guidelines to interpreting urine protein:creatinine ratio
+CKD is defined as abnormalities of kidney structure or function, present for >3 months, with implications for health. CKD is classified based on cause, GFR category (G1-G5), and albuminuria/proteinura category (A1-A3).
+
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) A1 Normal to mildly increased <0.015 <0.15 A2 Moderately increased 0.015-0.050 0.15-0.50 A3 Severely increased >0.050 >0.50 Nephrotic syndrome (adult) >0.350 >3.50 Nephrotic syndrome (child) >0.200 >3.00 Preferred specimen: early morning specimen. Repeat to confirm persistent proteinuria. Note that the urine protein assay detects mainly albumin, and may be unsuitable for the detection of tubular / overflow low molecular weight proteinuria. References: (1) Kidney Disease: Improving Global Outcomes (KDIGO) Clinical practice guideline for the evaluation and management of chronic kidney disease 2012. (2) KDIGO Clinical practice guideline for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease - mineral and bone disorder (CKD-MBD) 2009 and 2017. (3) KDIGO Clinical practice guideline on glomerular diseases; public review 2020.
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by Instrument on 30/03/2022 at 12:18
+Urine protein 0.22 g/L
+Urine protein	creat ratio	0.011	g/mmol creat <0.015
+KDIGO guidelines to interpreting urine protein:creatinine ratio
+CKD is defined as abnormalities of kidney structure or function, present for >3 months, with implications for health. CKD is classified based on cause, GFR category (G1-G5), and albuminuria/proteinura category (A1-A3).
+
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) A1 Normal to mildly increased <0.015 <0.15 A2 Moderately increased 0.015-0.050 0.15-0.50 A3 Severely increased >0.050 >0.50 Nephrotic syndrome (adult) >0.350 >3.50 Nephrotic syndrome (child) >0.200 >3.00 Preferred specimen: early morning specimen. Repeat to confirm persistent proteinuria. Note that the urine protein assay detects mainly albumin, and may be unsuitable for the detection of tubular / overflow low molecular weight proteinuria. References: (1) Kidney Disease: Improving Global Outcomes (KDIGO) Clinical practice guideline for the evaluation and management of chronic kidney disease 2012. (2) KDIGO Clinical practice guideline for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease - mineral and bone disorder (CKD-MBD) 2009 and 2017. (3) KDIGO Clinical practice guideline on glomerular diseases; public review 2020.
+Episode	ST04555163
+Date collected	19/01/2022
+Time collected	10:47
+Authorised by Instrument on 19/01/2022 at 16:38
+Urine protein 0.14 g/L
+Urine protein	creat ratio	0.012	g/mmol creat <0.015
+KDIGO guidelines to interpreting urine protein:creatinine ratio
+CKD is defined as abnormalities of kidney structure or function, present for >3 months, with implications for health. CKD is classified based on cause, GFR category (G1-G5), and albuminuria/proteinura category (A1-A3).
+
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) A1 Normal to mildly increased <0.015 <0.15 A2 Moderately increased 0.015-0.050 0.15-0.50 A3 Severely increased >0.050 >0.50 Nephrotic syndrome (adult) >0.350 >3.50 Nephrotic syndrome (child) >0.200 >3.00 Preferred specimen: early morning specimen. Repeat to confirm persistent proteinuria. Note that the urine protein assay detects mainly albumin, and may be unsuitable for the detection of tubular / overflow low molecular weight proteinuria. References: (1) Kidney Disease: Improving Global Outcomes (KDIGO) Clinical practice guideline for the evaluation and management of chronic kidney disease 2012. (2) KDIGO Clinical practice guideline for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease - mineral and bone disorder (CKD-MBD) 2009 and 2017. (3) KDIGO Clinical practice guideline on glomerular diseases; public review 2020.
+Episode	ST04303609
+Date collected	23/09/2021
+Time collected	11:20
+Authorised by Instrument on 23/09/2021 at 16:08
+Urine protein 0.13 g/L
+Urine protein	creat ratio 0.030 H g/mmol creat <0.015
+KDIGO guidelines to interpreting urine protein:creatinine ratio
+CKD is defined as abnormalities of kidney structure or function, present for >3 months, with implications for health. CKD is classified based on cause, GFR category (G1-G5), and albuminuria/proteinura category (A1-A3).
+
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) A1 Normal to mildly increased <0.015 <0.15 A2 Moderately increased 0.015-0.050 0.15-0.50 A3 Severely increased >0.050 >0.50 Nephrotic syndrome (adult) >0.350 >3.50 Nephrotic syndrome (child) >0.200 >3.00 Preferred specimen: early morning specimen. Repeat to confirm persistent proteinuria. Note that the urine protein assay detects mainly albumin, and may be unsuitable for the detection of tubular / overflow low molecular weight proteinuria. References: (1) Kidney Disease: Improving Global Outcomes (KDIGO) Clinical practice guideline for the evaluation and management of chronic kidney disease 2012. (2) KDIGO Clinical practice guideline for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease - mineral and bone disorder (CKD-MBD) 2009 and 2017. (3) KDIGO Clinical practice guideline on glomerular diseases; public review 2020.
+Episode	ST04091368
+Date collected	23/06/2021
+Time collected	12:55
+Authorised by Dr TP Jalavu on 23/06/2021 at 17:25
+Urine protein 1.60 g/L
+Urine protein	creat ratio 0.041 H g/mmol creat <0.015
+KDIGO guidelines to interpreting urine protein:creatinine ratio
+CKD is defined as abnormalities of kidney structure or function, present for >3 months, with implications for health. CKD is classified based on cause, GFR category (G1-G5), and albuminuria/proteinura category (A1-A3).
+
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) A1 Normal to mildly increased <0.015 <0.15 A2 Moderately increased 0.015-0.050 0.15-0.50 A3 Severely increased >0.050 >0.50 Nephrotic syndrome (adult) >0.350 >3.50 Nephrotic syndrome (child) >0.200 >3.00 Preferred specimen: early morning specimen. Repeat to confirm persistent proteinuria. Note that the urine protein assay detects mainly albumin, and may be unsuitable for the detection of tubular / overflow low molecular weight proteinuria. References: (1) Kidney Disease: Improving Global Outcomes (KDIGO) Clinical practice guideline for the evaluation and management of chronic kidney disease 2012. (2) KDIGO Clinical practice guideline for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease - mineral and bone disorder (CKD-MBD) 2009 and 2017. (3) KDIGO Clinical practice guideline on glomerular diseases; public review 2020.
+Episode	ST03703835
+Date collected	15/12/2020
+Time collected	10:50
+Authorised by Dr EC Kruger on 15/12/2020 at 16:35
+Urine protein 3.20 g/L
+Urine protein	creat ratio 0.162 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects mainly albumin, and may be
+unsuitable for the detection of tubular / overflow low molecular
+weight proteinuria.
+Episode	ST03117287
+Date collected	29/01/2020
+Time collected	14:00
+Authorised by Dr MC Bezuidenhout ** on 30/01/2020 at 11:15
+Urine protein 0.51 g/L
+Urine protein	creat ratio 0.042 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects mainly albumin, and may be
+unsuitable for the detection of tubular / overflow low molecular
+weight proteinuria.
+Episode	ST02438943
+Date collected	20/02/2019
+Time collected	11:40
+Authorised by PJ van der Merwe on 20/02/2019 at 21:23
+Urine protein 0.15 g/L
+Urine protein	creat ratio 0.025 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects mainly albumin, and may be
+unsuitable for the detection of tubular / overflow low molecular
+weight proteinuria.
+Episode	ST02305288
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by Dr EC Kruger on 05/12/2018 at 17:41
+Urine protein 0.37 g/L
+Urine protein	creat ratio 0.023 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects mainly albumin, and may be
+unsuitable for the detection of tubular / overflow low molecular
+weight proteinuria.
+Episode	ST02306476
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by Dr M Barkhuizen on 06/12/2018 at 10:26
+Urine protein 0.41 g/L
+Urine protein	creat ratio 0.024 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects mainly albumin, and may be
+unsuitable for the detection of tubular / overflow low molecular
+weight proteinuria.
+Episode	ST02267074
+Date collected	14/11/2018
+Time collected	11:30
+Authorised by M Hoffman on 15/11/2018 at 02:07
+Urine protein 0.12 g/L
+Urine protein	creat ratio 0.021 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects mainly albumin, and may be
+unsuitable for the detection of tubular / overflow low molecular
+weight proteinuria.
+Episode	ST02102992
+Date collected	22/08/2018
+Time collected	10:32
+Authorised by M Hoffman on 22/08/2018 at 21:53
+Urine protein 0.21 g/L
+Urine protein	creat ratio 0.028 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects mainly albumin, and may be
+unsuitable for the detection of tubular / overflow low molecular
+weight proteinuria.
+Episode	ST02047653
+Date collected	25/07/2018
+Time collected	12:00
+Authorised by M Hoffman on 26/07/2018 at 03:47
+Urine protein 0.53 g/L
+Urine protein	creat ratio 0.069 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects mainly albumin, and may be
+unsuitable for the detection of tubular / overflow low molecular
+weight proteinuria.
+Episode	ST01857294
+Date collected	18/04/2018
+Time collected	10:25
+Authorised by Dr L Uuyuni ** on 18/04/2018 at 17:22
+Urine protein 0.99 g/L
+Urine protein	creat ratio 0.100 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects albumin, and is unsuitable for the
+detection of tubular / overflow low molecular weight proteinuria.
+Episode	ST01729714
+Date collected	14/02/2018
+Time collected	11:00
+Authorised by M Hoffman on 14/02/2018 at 23:49
+Urine protein 0.28 g/L
+Urine protein	creat ratio 0.035 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects albumin, and is unsuitable for the
+detection of tubular / overflow low molecular weight proteinuria.
+Episode	ST01681255
+Date collected	22/01/2018
+Time collected	
+Authorised by Dr L Uuyuni ** on 22/01/2018 at 22:51
+Urine protein 0.27 g/L
+Urine protein	creat ratio 0.075 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects albumin, and is unsuitable for the
+detection of tubular / overflow low molecular weight proteinuria.
+Episode	ST01660198
+Date collected	10/01/2018
+Time collected	11:30
+Authorised by Dr M Hoffmann** on 10/01/2018 at 17:55
+Urine protein 1.22 g/L
+Urine protein	creat ratio 0.087 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects albumin, and is unsuitable for the
+detection of tubular / overflow low molecular weight proteinuria.
+Episode	ST01621721
+Date collected	12/12/2017
+Time collected	10:40
+Authorised by Dr M Barkhuizen on 12/12/2017 at 20:41
+Urine protein 0.49 g/L
+Urine protein	creat ratio 0.213 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects albumin, and is unsuitable for the
+detection of tubular / overflow low molecular weight proteinuria.
+Episode	ST01621985
+Date collected	12/12/2017
+Time collected	10:40
+Authorised by Dr L Uuyuni ** on 13/12/2017 at 12:52
+Urine protein 0.50 g/L
+Urine protein	creat ratio 0.217 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects albumin, and is unsuitable for the
+detection of tubular / overflow low molecular weight proteinuria.
+Episode	ST01575279
+Date collected	16/11/2017
+Time collected	18:30
+Authorised by J Malherbe on 17/11/2017 at 01:41
+Urine protein 3.20 g/L
+Urine protein	creat ratio 0.727 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects albumin, and is unsuitable for the
+detection of tubular / overflow low molecular weight proteinuria.
+Episode	ST01554640
+Date collected	07/11/2017
+Time collected	08:10
+Authorised by Prof AE Zemlin on 14/11/2017 at 12:46
+Urine protein 5.52 g/L
+Urine protein	creat ratio 0.612 H g/mmol creat <0.015
+Protein:creat ratio Protein excretion rate
+PROTEINURIA: (g/mmol) (g/24 hours) Normal to mildly increased <0.015 <0.15 Moderately increased 0.015-0.050 0.15-0.50 Severely increased >0.050 >0.50 Nephrotic syndrome >0.350 >3.50 Preferred specimen: early morning sample. Note: The urine protein assay detects albumin, and is unsuitable for the
+detection of tubular / overflow low molecular weight proteinuria.
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by NP Mkhwanazi on 10/05/2023 at 15:38
+Complement C3 1.48 g/L 0.90 - 1.80
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by T Christie on 30/03/2022 at 12:30
+Complement C3 1.55 g/L 0.90 - 1.80
+Episode	ST04303467
+Date collected	23/09/2021
+Time collected	11:26
+Authorised by NP Mkhwanazi on 23/09/2021 at 17:08
+Complement C3 1.48 g/L 0.90 - 1.80
+Episode	ST04154837
+Date collected	22/07/2021
+Time collected	09:10
+Authorised by T Christie on 24/07/2021 at 14:47
+Complement C3 1.79 g/L 0.90 - 1.80
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by T Christie on 25/06/2021 at 11:50
+Complement C3 1.96 H g/L 0.90 - 1.80
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by AJ Roux on 15/12/2020 at 13:58
+Complement C3 0.23 L g/L 0.90 - 1.80
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by ML Swartz on 06/12/2018 at 16:28
+Complement C3 1.68 g/L 0.90 - 1.80
+Episode	ST01857294
+Date collected	18/04/2018
+Time collected	10:25
+Authorised by M Nichols on 19/04/2018 at 09:18
+Complement C3 1.68 g/L 0.90 - 1.80
+Episode	ST01580648
+Date collected	19/11/2017
+Time collected	
+Authorised by ML Swartz on 20/11/2017 at 15:37
+Complement C3 2.25 H g/L 0.90 - 1.80
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by NP Mkhwanazi on 10/05/2023 at 15:38
+Complement C4 0.25 g/L 0.10 - 0.40
+
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by T Christie on 30/03/2022 at 12:30
+Complement C4 0.26 g/L 0.10 - 0.40
+
+Episode	ST04303467
+Date collected	23/09/2021
+Time collected	11:26
+Authorised by NP Mkhwanazi on 23/09/2021 at 17:08
+Complement C4 0.26 g/L 0.10 - 0.40
+
+Episode	ST04154837
+Date collected	22/07/2021
+Time collected	09:10
+Authorised by T Christie on 24/07/2021 at 14:47
+Complement C4 0.34 g/L 0.10 - 0.40
+
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by T Christie on 25/06/2021 at 11:51
+Complement C4 0.34 g/L 0.10 - 0.40
+
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by AJ Roux on 15/12/2020 at 13:58
+Complement C4 0.03 L g/L 0.10 - 0.40
+
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by ML Swartz on 06/12/2018 at 16:28
+Complement C4 0.36 g/L 0.10 - 0.40
+
+Episode	ST01857294
+Date collected	18/04/2018
+Time collected	10:25
+Authorised by M Nichols on 19/04/2018 at 09:17
+Complement C4 0.38 g/L 0.10 - 0.40
+
+Episode	ST01580648
+Date collected	19/11/2017
+Time collected	
+Authorised by ML Swartz on 20/11/2017 at 15:38
+Complement C4 0.56 H g/L 0.10 - 0.40
+
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by Instrument on 10/05/2023 at 14:51
+Total cholesterol 5.88 mmol/L Triglyceride 1.61 mmol/L HDL cholesterol 1.76 mmol/L Calculated LDLC (Friedewald) 3.38 mmol/L
+
+CHOLESTEROL TREATMENT TARGETS (per CV Event Risk Category): Risk Category: TC target: LDL-C target:
+Low/Moderate Risk <5.0 mmol/L <3.0 mmol/L High Risk <4.5 mmol/L <2.5 mmol/L
+
+Aim for a reduction of at least 50%
+if baseline LDL-C is 2.5-5.2 mmol/L Very High Risk <4.0 mmol/L <1.8 mmol/L
+Aim for a reduction of at least 50%
+if baseline LDL-C is 1.8-3.5 mmol/L Risk of CV events (No Framingham risk scoring required): Very high risk: - Established atherosclerotic disease (CAD, CVD, PVD) - T2DM with other risk factors (smoking, hypertension, dyslipidaemia) or age >40 years - T1DM with albuminuria or proteinuria - Genetic dyslipidaemia, e.g., FH, dysbetalipoproteinaemia, individuals with TC >7.5 mmol/L and/or LDL-C >5 mmol/L - Severe CKD (GFR <30 mL/min/1.73 m2) - Asymptomatic with imaging showing arterial plaque High risk: - Systolic BP >=180 mmHg and/or diastolic BP >=110 mmHg) - Uncomplicated T1DM & T2DM aged <40 years without other risk factors - Chronic kidney disease (GFR 30-59 mL/min/1.73 m2) Reference: South African Dyslipidaemia SAH and LASSA Guideline Consensus Statement: 2018 Update In addition, the following concentrations are considered optimal: HDL Cholesterol > 1.2 mmol/L Triglycerides < 1.7 mmol/L NB Trig >10mmol/L has increased risk for development of pancreatitis
+Episode	ST05173614
+Date collected	28/09/2022
+Time collected	12:40
+Authorised by N Tshapile on 28/09/2022 at 22:59
+Total cholesterol 4.23 mmol/L Triglyceride 1.50 mmol/L HDL cholesterol 1.56 mmol/L Calculated LDLC (Friedewald) 1.98 mmol/L
+CHOLESTEROL TREATMENT TARGETS (per CV Event Risk Category): Risk Category: TC target: LDL-C target:
+Low/Moderate Risk <5.0 mmol/L <3.0 mmol/L High Risk <4.5 mmol/L <2.5 mmol/L
+
+Aim for a reduction of at least 50%
+if baseline LDL-C is 2.5-5.2 mmol/L Very High Risk <4.0 mmol/L <1.8 mmol/L
+Aim for a reduction of at least 50%
+if baseline LDL-C is 1.8-3.5 mmol/L Risk of CV events (No Framingham risk scoring required): Very high risk: - Established atherosclerotic disease (CAD, CVD, PVD) - T2DM with other risk factors (smoking, hypertension, dyslipidaemia) or age >40 years - T1DM with albuminuria or proteinuria - Genetic dyslipidaemia, e.g., FH, dysbetalipoproteinaemia, individuals with TC >7.5 mmol/L and/or LDL-C >5 mmol/L - Severe CKD (GFR <30 mL/min/1.73 m2) - Asymptomatic with imaging showing arterial plaque High risk: - Systolic BP >=180 mmHg and/or diastolic BP >=110 mmHg) - Uncomplicated T1DM & T2DM aged <40 years without other risk factors - Chronic kidney disease (GFR 30-59 mL/min/1.73 m2) Reference: South African Dyslipidaemia SAH and LASSA Guideline Consensus Statement: 2018 Update In addition, the following concentrations are considered optimal: HDL Cholesterol > 1.2 mmol/L Triglycerides < 1.7 mmol/L NB Trig >10mmol/L has increased risk for development of pancreatitis
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by Instrument on 30/03/2022 at 12:09
+Total cholesterol 5.77 mmol/L Triglyceride 1.30 mmol/L HDL cholesterol 1.88 mmol/L Calculated LDLC (Friedewald) 3.29 mmol/L
+CHOLESTEROL TREATMENT TARGETS (per CV Event Risk Category): Risk Category: TC target: LDL-C target:
+Low/Moderate Risk <5.0 mmol/L <3.0 mmol/L High Risk <4.5 mmol/L <2.5 mmol/L
+
+Aim for a reduction of at least 50%
+if baseline LDL-C is 2.5-5.2 mmol/L Very High Risk <4.0 mmol/L <1.8 mmol/L
+Aim for a reduction of at least 50%
+if baseline LDL-C is 1.8-3.5 mmol/L Risk of CV events (No Framingham risk scoring required): Very high risk: - Established atherosclerotic disease (CAD, CVD, PVD) - T2DM with other risk factors (smoking, hypertension, dyslipidaemia) or age >40 years - T1DM with albuminuria or proteinuria - Genetic dyslipidaemia, e.g., FH, dysbetalipoproteinaemia, individuals with TC >7.5 mmol/L and/or LDL-C >5 mmol/L - Severe CKD (GFR <30 mL/min/1.73 m2) - Asymptomatic with imaging showing arterial plaque High risk: - Systolic BP >=180 mmHg and/or diastolic BP >=110 mmHg) - Uncomplicated T1DM & T2DM aged <40 years without other risk factors - Chronic kidney disease (GFR 30-59 mL/min/1.73 m2) Reference: South African Dyslipidaemia SAH and LASSA Guideline Consensus Statement: 2018 Update In addition, the following concentrations are considered optimal: HDL Cholesterol > 1.2 mmol/L Triglycerides < 1.7 mmol/L NB Trig >10mmol/L has increased risk for development of pancreatitis
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by Instrument on 10/05/2023 at 14:51
+Thyroxine (free T4) 15.4 pmol/L 11.9 - 21.6
+Episode	ST05173614
+Date collected	28/09/2022
+Time collected	12:40
+Authorised by N Tshapile on 28/09/2022 at 23:44
+Thyroxine (free T4) 13.8 pmol/L 12.6 - 21.0
+
+Episode	ST05677716
+Date collected	10/05/2023
+Time collected	10:19
+Authorised by Instrument on 10/05/2023 at 14:51
+Tri-iodo thyronine (free T3) 5.5 pmol/L 3.1 - 6.8
+
+Episode	ST05173614
+Date collected	28/09/2022
+Time collected	12:40
+Authorised by L Kilian ** on 06/10/2022 at 10:25
+Peripheral Blood Morphology:
+Red Cell Morphology: HB ON THE LOW END OF NORMAL.
+Platelet Morphology: SLIGHT PLATELET CLUMPING WITH A MODERATE NUMBER OF LARGE PLATELETS.
+
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Dr HM Cornelissen on 02/03/2020 at 16:30
+
+Peripheral Blood Morphology:
+Blood Smear comment: RBC: Normocytic normochromic cells. Fragments or spherocytes not seen.
+White Blood Cells: Normal neutrophil morphology. Small mature lymphocytes. Atypical lymphocytes and blasts are NOT seen.
+
+Platelets: Normal platelet morphology.
+
+Comment: Normal peripheral blood smear morphology.Overt features of a reactive process not observed.
+
+Episode	ST03054109
+Date collected	20/12/2019
+Time collected	
+Authorised by Dr E Nell on 21/12/2019 at 11:57
+
+Peripheral Blood Morphology:
+Blood Smear comment: Red Cell Morphology: Normocytic normochromic red cells. Occasional elliptocytes seen.
+White Cell Morphology: Normal number of neutrophils. Normal morphology of leucocytes.
+
+Platelet Morphology: THrombocytopenia confirmed. Occasional large and giant platelets.
+
+FINAL COMMENT: Severe thrombocytopenia. There are no overt features of fragmentation haemolysis. Consider drug-induced thrombocytopenia and ITP or bone marrow suppression. Haematinic studies are advised (vitamin B12, folate, iron studies).
+
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by Dr EM Musekwa on 05/11/2017 at 08:58
+
+Peripheral Blood Morphology:
+Blood Smear comment: -The anaemia is most likely due to iron deficiency anaemia as evidenced by the FBC parameters and morphology. - Iron studies advised.
+Episode	ST05173614
+Date collected	28/09/2022
+Time collected	12:40
+Authorised by Instrument on 28/09/2022 at 22:33
+Albumin 43 g/L 35 - 52
+Episode	ST03350227
+Date collected	10/06/2020
+Time collected	09:20
+Authorised by Instrument on 10/06/2020 at 19:03
+Albumin 37 g/L 29 - 42
+
+Episode	ST03052523
+Date collected	19/12/2019
+Time collected	
+Authorised by Instrument on 20/12/2019 at 00:56
+Albumin 34 g/L 29 - 42
+
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by Instrument on 05/12/2018 at 15:23
+Albumin 37 g/L 29 - 42
+
+Episode	ST01857294
+Date collected	18/04/2018
+Time collected	10:25
+Authorised by Instrument on 18/04/2018 at 17:38
+Albumin 35 g/L 29 - 42
+
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Dr L Uuyuni ** on 07/11/2017 at 12:42
+Albumin 16 L g/L 29 - 42
+
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by Instrument on 30/03/2022 at 12:09
+Urea 4.6 mmol/L 2.1 - 7.1
+
+Episode	ST04555163
+Date collected	19/01/2022
+Time collected	10:47
+Authorised by Instrument on 19/01/2022 at 20:15
+Urea 3.2 mmol/L 2.1 - 7.1
+
+Episode	ST04303467
+Date collected	23/09/2021
+Time collected	11:26
+Authorised by Instrument on 23/09/2021 at 15:11
+Urea 3.2 mmol/L 2.1 - 7.1
+
+Episode	ST04154837
+Date collected	22/07/2021
+Time collected	09:10
+Authorised by Instrument on 22/07/2021 at 11:02
+Urea 3.1 mmol/L 2.1 - 7.1
+
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by Instrument on 23/06/2021 at 16:31
+Urea 3.6 mmol/L 2.1 - 7.1
+
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by Instrument on 15/12/2020 at 13:00
+Urea 6.1 H mmol/L 1.4 - 5.4
+
+Episode	ST03350227
+Date collected	10/06/2020
+Time collected	09:20
+Authorised by Instrument on 10/06/2020 at 19:03
+Urea 3.1 mmol/L 1.4 - 5.4
+
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Instrument on 02/03/2020 at 14:31
+Urea 3.6 mmol/L 1.4 - 5.4
+
+Episode	ST03052523
+Date collected	19/12/2019
+Time collected	
+Authorised by Instrument on 20/12/2019 at 00:56
+Urea 3.2 mmol/L 1.4 - 5.4
+
+Episode	ST02438943
+Date collected	20/02/2019
+Time collected	11:40
+Authorised by Instrument on 20/02/2019 at 20:49
+Urea 2.7 mmol/L 1.4 - 5.4
+
+Episode	ST02267071
+Date collected	14/11/2018
+Time collected	11:47
+Authorised by Instrument on 15/11/2018 at 02:48
+Urea 2.5 mmol/L 1.4 - 5.4
+
+Episode	ST02102992
+Date collected	22/08/2018
+Time collected	10:32
+Authorised by Instrument on 22/08/2018 at 22:15
+Urea 2.5 mmol/L 1.4 - 5.4
+
+Episode	ST01729714
+Date collected	14/02/2018
+Time collected	11:00
+Authorised by M Hoffman on 15/02/2018 at 01:42
+Urea 3.1 mmol/L 1.4 - 5.4
+
+Episode	ST01681252
+Date collected	22/01/2018
+Time collected	
+Authorised by Instrument on 22/01/2018 at 22:59
+Urea 1.8 mmol/L 1.4 - 5.4
+
+Episode	ST01660198
+Date collected	10/01/2018
+Time collected	11:30
+Authorised by Instrument on 10/01/2018 at 18:48
+Urea 3.1 mmol/L 1.4 - 5.4
+
+Episode	ST01592221
+Date collected	26/11/2017
+Time collected	11:00
+Authorised by WD Kruger on 26/11/2017 at 20:52
+Urea 3.1 mmol/L 1.4 - 5.4
+
+Episode	ST01577101
+Date collected	17/11/2017
+Time collected	12:00
+Authorised by Dr M Barkhuizen on 17/11/2017 at 16:42
+Urea 1.7 mmol/L 1.4 - 5.4
+
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Instrument on 07/11/2017 at 12:18
+Urea 1.5 mmol/L 1.4 - 5.4
+
+Episode	ST01550557
+Date collected	04/11/2017
+Time collected	07:30
+Urea
+Information on request form and specimen do not match
+Episode	ST01542630
+Date collected	01/11/2017
+Time collected	
+Authorised by Instrument on 01/11/2017 at 11:45
+Urea 2.8 mmol/L 1.4 - 5.4
+Episode	ST04730259
+Date collected	30/03/2022
+Time collected	10:13
+Authorised by Dr OJ Wiese on 30/03/2022 at 12:29
+Vitamin B12 247 pmol/L 145 - 569
+
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by Dr TP Jalavu on 23/06/2021 at 18:12
+Vitamin B12 269 pmol/L 145 - 569
+
+Episode	ST03350227
+Date collected	10/06/2020
+Time collected	09:20
+Authorised by Instrument on 10/06/2020 at 19:03
+Vitamin B12 334 pmol/L 145 - 569
+
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Vitamin B12
+Test automatically rejected on the basis of the hospital's electronic gatekeeping rules. If it is clinically necessary for the test to be performed, the rejection can only be reversed by providing a valid approval number to the laboratory. This must be done within 7 days, and before the stability limits of the test are exceeded. Please contact the person designated to provide eGK approval numbers for your facility.
+Episode	ST03115711
+Date collected	29/01/2020
+Time collected	14:00
+Authorised by Dr EC Kruger on 29/01/2020 at 19:06
+Vitamin B12 259 pmol/L 145 - 569
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Dr L Uuyuni ** on 07/11/2017 at 12:42
+Vitamin B12 106 L pmol/L 145 - 569
+
+Episode	ST04555163
+Date collected	19/01/2022
+Time collected	10:47
+Authorised by Instrument on 19/01/2022 at 20:15
+Sodium 142 mmol/L 136 - 145
+
+Episode	ST04154837
+Date collected	22/07/2021
+Time collected	09:10
+Authorised by Instrument on 22/07/2021 at 11:02
+Sodium 141 mmol/L 136 - 145
+
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by Instrument on 23/06/2021 at 16:31
+Sodium 139 mmol/L 136 - 145
+
+Episode	ST03350227
+Date collected	10/06/2020
+Time collected	09:20
+Authorised by Instrument on 10/06/2020 at 19:03
+Sodium 142 mmol/L 136 - 145
+
+Episode	ST03052523
+Date collected	19/12/2019
+Time collected	
+Authorised by Instrument on 20/12/2019 at 00:56
+Sodium 138 mmol/L 136 - 145
+
+Episode	ST02267071
+Date collected	14/11/2018
+Time collected	11:47
+Authorised by Instrument on 15/11/2018 at 02:48
+Sodium 140 mmol/L 136 - 145
+
+Episode	ST02102992
+Date collected	22/08/2018
+Time collected	10:32
+Authorised by Instrument on 22/08/2018 at 22:15
+Sodium 142 mmol/L 136 - 145
+
+Episode	ST01729714
+Date collected	14/02/2018
+Time collected	11:00
+Authorised by M Hoffman on 15/02/2018 at 01:42
+Sodium 145 mmol/L 136 - 145
+
+Episode	ST01681252
+Date collected	22/01/2018
+Time collected	
+Authorised by Instrument on 22/01/2018 at 22:59
+Sodium 142 mmol/L 136 - 145
+
+Episode	ST01660198
+Date collected	10/01/2018
+Time collected	11:30
+Authorised by Instrument on 10/01/2018 at 18:48
+Sodium 147 H mmol/L 136 - 145
+
+Episode	ST01621471
+Date collected	12/12/2017
+Time collected	10:55
+Authorised by Instrument on 12/12/2017 at 16:23
+Sodium 142 mmol/L 136 - 145
+
+Episode	ST01592221
+Date collected	26/11/2017
+Time collected	11:00
+Authorised by K van der Merwe ** on 26/11/2017 at 20:46
+Sodium 138 mmol/L 136 - 145
+
+Episode	ST01577101
+Date collected	17/11/2017
+Time collected	12:00
+Authorised by Dr M Barkhuizen on 17/11/2017 at 16:42
+Sodium 139 mmol/L 136 - 145
+
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Instrument on 07/11/2017 at 12:18
+Sodium 135 L mmol/L 136 - 145
+
+Episode	ST01550557
+Date collected	04/11/2017
+Time collected	07:30
+Sodium
+Information on request form and specimen do not match
+Episode	ST01542630
+Date collected	01/11/2017
+Time collected	
+Authorised by Instrument on 01/11/2017 at 11:45
+Sodium 137 mmol/L 136 - 145
+Date Collected	19/01/2022	22/07/2021	23/06/2021	10/06/2020	19/12/2019	14/11/2018	22/08/2018	18/04/2018	14/02/2018	22/01/2018	10/01/2018	26/11/2017	17/11/2017	07/11/2017	04/11/2017	01/11/2017
+Time Collected	10:47	09:10	12:50	09:20	?	11:47	10:32	10:25	11:00	?	11:30	11:00	12:00	08:00	07:30	?
+Episode	ST04555163	ST04154837	ST04091179	ST03350227	ST03052523	ST02267071	ST02102992	ST01857294	ST01729714	ST01681252	ST01660198	ST01592221	ST01577101	ST01554167	ST01550557	ST01542630
+Potassium	4.7	5.1	4.7	4.7	3.8	3.9	4.8	3.7	4.3	4.2	4.4	3.9	4.6	4.2	TF	4.0
+Episode	ST04555163
+Date collected	19/01/2022
+Time collected	10:47
+Authorised by Z Mankune on 19/01/2022 at 16:10
+ESR 31 H mm/hr 0 - 20
+
+Episode	ST04303467
+Date collected	23/09/2021
+Time collected	11:26
+Authorised by V Danileyo on 23/09/2021 at 18:32
+ESR 78 H mm/hr 0 - 20
+
+Episode	ST04154837
+Date collected	22/07/2021
+Time collected	09:10
+Authorised by Y Maya on 22/07/2021 at 13:49
+ESR 56 H mm/hr 0 - 20
+
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by WF Kleinhans on 23/06/2021 at 16:59
+ESR 52 H mm/hr 0 - 20
+
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by V Danileyo on 15/12/2020 at 14:40
+ESR 27 H mm/hr 0 - 10
+
+Episode	ST03350227
+Date collected	10/06/2020
+Time collected	09:20
+Authorised by L Kilian ** on 10/06/2020 at 20:29
+ESR 44 H mm/hr 0 - 10
+
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by L van Schalkwyk on 02/03/2020 at 18:56
+ESR 52 H mm/hr 0 - 10
+
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by VG Kenneth on 05/12/2018 at 15:36
+ESR 55 H mm/hr 0 - 10
+
+Episode	ST01909312
+Date collected	16/05/2018
+Time collected	10:27
+Authorised by WN Bilikwa on 16/05/2018 at 20:39
+ESR 38 H mm/hr 0 - 10
+
+Episode	ST01621471
+Date collected	12/12/2017
+Time collected	10:55
+Authorised by CF Bam** on 12/12/2017 at 18:15
+ESR 45 H mm/hr 0 - 10
+
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by S Pienaar on 04/11/2017 at 16:47
+ESR 140 H mm/hr 0 - 10
+
+Episode	ST04555163
+Date collected	19/01/2022
+Time collected	10:47
+Authorised by Instrument on 19/01/2022 at 20:15
+Aspartate transaminase (AST) 17 U/L 13 - 35
+
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Instrument on 07/11/2017 at 17:18
+Aspartate transaminase (AST) 20 U/L 0 - 32
+
+Episode	ST04303467
+Date collected	23/09/2021
+Time collected	11:26
+Authorised by Dr TP Jalavu on 23/09/2021 at 15:21
+Troponin T (high-sensitivity):
+High-sensitivity Troponin T <3 ng/L
+
+hs-Troponin T interpretation in suspected Acute Coronary Syndrome (ACS): - Rule-in ACS: Value >100 ng/L (WHO rule-in level) - Rule-out ACS: Value <=14 ng/L (99th percentile level), if more than 6hrs after onset of chest pain - Less than 6hrs of chest pain and values < rule-in level require repeat sampling 3 hours later to demonstrate a rise in value. Note that Troponin results obtained from different instruments have different cut-off values and are NOT comparable. This result was obtained using a Roche instrument.
+Episode	ST04154837
+Date collected	22/07/2021
+Time collected	09:10
+Authorised by T Christie on 23/07/2021 at 16:22
+
+Anti-nuclear antibodies (IFA): Result using HEP-2 cells Negative
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by T Christie on 25/06/2021 at 16:48
+Anti-nuclear antibodies (IFA): Result using HEP-2 cells Negative
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by T Rhoda on 17/12/2020 at 14:30
+Anti-nuclear antibodies (IFA): Result using HEP-2 cells Negative
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by T Rhoda on 06/12/2018 at 15:58
+Anti-nuclear antibodies (IFA): Result using HEP-2 cells Negative
+Episode	ST01857294
+Date collected	18/04/2018
+Time collected	10:25
+Authorised by T Rhoda on 26/04/2018 at 16:25
+Anti-nuclear antibodies (IFA): Result using HEP-2 cells Negative
+Episode	ST01577504
+Date collected	17/11/2017
+Time collected	
+Authorised by AJ Roux on 20/11/2017 at 17:20
+Anti-nuclear antibodies (IFA): Result using HEP-2 cells Negative
+Episode	ST01577101
+Date collected	17/11/2017
+Time collected	12:00
+Authorised by AJ Roux on 22/11/2017 at 16:41
+Anti-nuclear antibodies (IFA): Result using HEP-2 cells Negative
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by AJ Roux on 15/11/2017 at 16:34
+Anti-nuclear antibodies (IFA): Result using HEP-2 cells Negative
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by AJ Roux on 06/11/2017 at 16:06
+Anti-nuclear antibodies (IFA): Result using HEP-2 cells Negative
+Episode	ST04154837
+Date collected	22/07/2021
+Time collected	09:10
+Authorised by T Christie on 28/07/2021 at 15:46
+Anti-double stranded DNA antibody (ELISA): IgG Result Positive Value 199 IU/mL
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by T Christie on 24/06/2021 at 14:02
+Anti-double stranded DNA antibody (ELISA): IgG Result Positive Value 36 IU/mL
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by T Rhoda on 23/12/2020 at 16:17
+Anti-double stranded DNA antibody (ELISA): IgG Result Positive Value 108 IU/mL
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by ML Swartz on 12/12/2018 at 15:34
+Anti-double stranded DNA antibody (ELISA): IgG Result Negative Value 15 IU/mL
+Episode	ST01857294
+Date collected	18/04/2018
+Time collected	10:25
+Authorised by T Rhoda on 03/05/2018 at 16:30
+Anti-double stranded DNA antibody (ELISA): IgG Result Negative Value 5 IU/mL
+Episode	ST01577504
+Date collected	17/11/2017
+Time collected	
+Authorised by AJ Roux on 23/11/2017 at 16:24
+Anti-double stranded DNA antibody (ELISA): IgG Result Positive Value 70 IU/mL
+Episode	ST01577101
+Date collected	17/11/2017
+Time collected	12:00
+Authorised by AJ Roux on 23/11/2017 at 16:24
+Anti-double stranded DNA antibody (ELISA): IgG Result Positive Value 65 IU/mL
+Episode	ST04096764
+Date collected	25/06/2021
+Time collected	09:00
+Authorised by VG Kenneth on 25/06/2021 at 13:55
+Activated Partial Thromboplastin Time:
+PTT Patient 35.5 H sec 22.0 - 30.7 PTT Control 25.2 sec PTT Ratio 1.40
+
+Episode	ST01974415
+Date collected	19/06/2018
+Time collected	09:20
+Authorised by A Mlomo *** on 19/06/2018 at 14:12
+Activated Partial Thromboplastin Time:
+PTT Patient 22.6 sec 22.0 - 30.7 PTT Control 24.1 sec PTT Ratio 0.90
+
+Episode	ST01604749
+Date collected	03/12/2017
+Time collected	10:00
+Authorised by WF Kleinhans on 03/12/2017 at 15:07
+Activated Partial Thromboplastin Time:
+PTT Patient 36.3 H sec 22.0 - 30.7 PTT Control 23.8 sec PTT Ratio 1.50
+
+Episode	ST04093470
+Date collected	24/06/2021
+Time collected	
+Authorised by LM Brace on 24/06/2021 at 16:11
+Gram Stain: Neutrophils Not observed Epithelial cells Occasional Gram positive cocci Moderate (2+) Gram negative bacilli Scanty (1+)
+Episode	ST04093470
+Date collected	24/06/2021
+Time collected	
+Authorised by IB Seitisho on 25/06/2021 at 09:50
+Bacterial Culture: Normal flora isolated
+Episode	ST04093470
+Date collected	24/06/2021
+Time collected	
+Authorised by Instrument on 24/06/2021 at 15:15
+TB-NAAT: GeneXpert MTB/Rif Ultra PCR result Mycobacterium tuberculosis complex NOT detected
+The negative GeneXpert MTB/RIF Ultra assay does not conclusively rule out TB. Please manage according to national guidelines. If the patient is HIV infected, please submit a second specimen for TB culture and susceptibility testing.
+Episode	ST04093773
+Date collected	24/06/2021
+Time collected	12:30
+Authorised by Instrument on 25/06/2021 at 08:39
+
+Severe Acute Respiratory Syndrome - Coronavirus 2 (SARS-CoV-2) RT-PCR: RT-PCR result Negative
+A "Negative" result does not exclude infection with SARS-CoV-2. This could also be due to: - Poor quality specimen - Inappropriate timing of sample collection (e.g. asymptomatic or pre- symptomatic patient) - Sample degradation
+If clinically indicated, please submit a repeat specimen.
+
+
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by Instrument on 23/06/2021 at 16:31
+Calcium 2.29 mmol/L 2.15 - 2.50
+Episode	ST01542630
+Date collected	01/11/2017
+Time collected	
+Authorised by Instrument on 01/11/2017 at 11:45
+Calcium 2.00 L mmol/L 2.10 - 2.50
+
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by Instrument on 23/06/2021 at 16:31
+Magnesium 0.86 mmol/L 0.63 - 1.05
+
+Episode	ST01542630
+Date collected	01/11/2017
+Time collected	
+Authorised by Instrument on 01/11/2017 at 11:45
+Magnesium 0.88 mmol/L 0.66 - 0.95
+
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by Instrument on 23/06/2021 at 16:31
+Inorganic phosphate 1.43 H mmol/L 0.78 - 1.42
+
+Episode	ST01542630
+Date collected	01/11/2017
+Time collected	
+Authorised by Instrument on 01/11/2017 at 11:45
+Inorganic phosphate 1.91 H mmol/L 0.90 - 1.55
+
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by Instrument on 23/06/2021 at 18:04
+Serum folate 23.9 nmol/L 8.8 - 60.8
+
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Dr RB Banderker on 02/03/2020 at 14:50
+Serum folate 20.3 nmol/L 8.8 - 60.8
+
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Dr L Uuyuni ** on 07/11/2017 at 12:42
+Serum folate 21.4 nmol/L 8.8 - 60.8
+
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by T Christie on 24/06/2021 at 16:36
+Anti-Sm antibody (ELISA): Result Negative Value 1.7 U/mL
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by ML Swartz on 06/12/2018 at 15:50
+Anti-Sm antibody (ELISA): Result Negative Value 7.7 U/mL
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by AJ Roux on 16/11/2017 at 17:04
+Anti-Sm antibody (ELISA): Result Negative Value 3.3 U/mL
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by T Christie on 24/06/2021 at 16:36
+Anti-RNP antibody (ELISA): Result Negative Value 2.3 U/mL
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by ML Swartz on 06/12/2018 at 15:50
+Anti-RNP antibody (ELISA): Result Negative Value 3.4 U/mL
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by AJ Roux on 16/11/2017 at 17:04
+Anti-RNP antibody (ELISA): Result Negative Value 2.7 U/mL
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by T Christie on 24/06/2021 at 16:38
+Anti-SS-A (Ro) antibody (ELISA): Result Negative Value 3.1 U/mL
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by ML Swartz on 06/12/2018 at 16:04
+Anti-SS-A (Ro) antibody (ELISA): Result Negative Value 1.6 U/mL
+Episode	ST01592221
+Date collected	26/11/2017
+Time collected	11:00
+Authorised by AJ Roux on 03/12/2017 at 15:36
+Anti-SS-A (Ro) antibody (ELISA): Result Negative Value 1.0 U/mL
+Episode	ST04091179
+Date collected	23/06/2021
+Time collected	12:50
+Authorised by T Christie on 24/06/2021 at 16:38
+Anti-SS-B (La) antibody (ELISA): Result Negative Value 1.0 U/mL
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by ML Swartz on 06/12/2018 at 16:04
+Anti-SS-B (La) antibody (ELISA): Result Negative Value 1.1 U/mL
+Episode	ST01592221
+Date collected	26/11/2017
+Time collected	11:00
+Authorised by AJ Roux on 03/12/2017 at 15:36
+Anti-SS-B (La) antibody (ELISA): Result Negative Value 0.4 U/mL
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by Instrument on 15/12/2020 at 13:00
+Creatine kinase (CK) 22 U/L 13 - 144
+
+Episode	ST01621471
+Date collected	12/12/2017
+Time collected	10:55
+Authorised by Instrument on 12/12/2017 at 16:23
+Creatine kinase (CK) 28 U/L 2 - 143
+
+Episode	ST03703509
+Date collected	15/12/2020
+Time collected	10:30
+Authorised by Instrument on 15/12/2020 at 13:00
+Uric acid 0.25 mmol/L 0.18 - 0.35
+
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Instrument on 02/03/2020 at 14:31
+Uric acid 0.17 L mmol/L 0.18 - 0.35
+
+Episode	ST03676187
+Date collected	02/12/2020
+Time collected	09:15
+Authorised by Dr E Nell on 03/12/2020 at 08:35
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment Permanent
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST03676187 02/12/2020 4.5 1.50 1.00 1.00 1.00 1.00 1.00 1.00 7.50
+
+History: ST03618000 04/11/2020 2.1 1.50 1.00 1.00 1.50 1.00 1.00 1.50 8.50 ST03281362 30/04/2020 3.4 1.00 1.50 1.50 1.50 1.50 1.50 1.50 10.00 ST03198491 09/03/2020 3.0 1.50 1.50 1.50 1.50 1.50 1.50 1.50 10.50 ST03139573 10/02/2020 3.0 1.50 1.50 1.50 1.50 1.50 1.50 1.5 10.50 ST02995320 18/11/2019 1.1 1.50 1.50 1.50 1.00 1.50 1.50 1.50 10.00
+
+Next Appointment: Recall days 7 days Recall date 10/12/2020
+
+Comment: INR is above therapeutic range. Warfarin dose reduced by 5mg per week. Repeat INR in 7 days.
+Episode	ST03618000
+Date collected	04/11/2020
+Time collected	08:40
+Authorised by Dr EJ Gantana on 05/11/2020 at 09:53
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment Permanent
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST03618000 04/11/2020 2.1 1.50 1.00 1.00 1.50 1.00 1.00 1.50 8.50
+
+History: ST03281362 30/04/2020 3.4 1.00 1.50 1.50 1.50 1.50 1.50 1.50 10.00 ST03198491 09/03/2020 3.0 1.50 1.50 1.50 1.50 1.50 1.50 1.50 10.50 ST03139573 10/02/2020 3.0 1.50 1.50 1.50 1.50 1.50 1.50 1.50 10.50 ST02995320 18/11/2019 1.1 1.50 1.50 1.50 1.00 1.50 1.50 1.5 10.00 ST02953393 28/10/2019 1.7 1.00 1.50 1.50 1.50 1.50 1.50 1.50 10.00
+
+Next Appointment: Recall days 28 days Recall date 03/12/2020
+
+Comment: Please note that the warfarin dose on the request form is different from the previously prescribed dose. The dose on the request form is accepted as the dose taken by the patient. INR within therpeutic range. Please continue on current dose and repeat INR in 28 days.
+Episode	ST03281362
+Date collected	30/04/2020
+Time collected	08:30
+Authorised by Dr EJ Gantana on 30/04/2020 at 17:37
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment Permanent
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST03281362 30/04/2020 3.4 1.00 1.50 1.50 1.50 1.50 1.50 1.50 10.00
+
+History: ST03198491 09/03/2020 3.0 1.50 1.50 1.50 1.50 1.50 1.50 1.50 10.50 ST03139573 10/02/2020 3.0 1.50 1.50 1.50 1.50 1.50 1.50 1.50 10.50 ST02995320 18/11/2019 1.1 1.50 1.50 1.50 1.00 1.50 1.50 1.50 10.00 ST02953393 28/10/2019 1.7 1.00 1.50 1.50 1.50 1.50 1.50 1.5 10.00 ST02926101 14/10/2019 1.4 1.00 1.50 1.50 1.50 1.50 1.50 1.00 9.50
+
+Next Appointment: Recall days 14 days Recall date 14/05/2020
+
+Comment: INR above therapeutic range. Warfarin dose reduced by 2.5mg per week. Repeat INR in 14 days.
+Episode	ST03198491
+Date collected	09/03/2020
+Time collected	07:02
+Authorised by Dr E Nell on 10/03/2020 at 10:00
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment Permanent
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST03198491 09/03/2020 3.0 1.50 1.50 1.50 1.50 1.50 1.50 1.50 10.50
+
+History: ST03139573 10/02/2020 3.0 1.50 1.50 1.50 1.50 1.50 1.50 1.50 10.50 ST02995320 18/11/2019 1.1 1.50 1.50 1.50 1.00 1.50 1.50 1.50 10.00 ST02953393 28/10/2019 1.7 1.00 1.50 1.50 1.50 1.50 1.50 1.50 10.00 ST02926101 14/10/2019 1.4 1.00 1.50 1.50 1.50 1.50 1.50 1.0 9.50 ST02830125 26/08/2019 2.2 1.00 1.50 1.50 1.50 1.00 1.50 1.00 9.00
+
+Next Appointment: Recall days 28 days Recall date 07/04/2020
+
+Comment: Please indicate the reason for warfarinisation. SLE by itself is not an indication for warfarin therapy.
+Episode	ST03139573
+Date collected	10/02/2020
+Time collected	07:15
+Authorised by Dr E Nell on 10/02/2020 at 16:15
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment Permanent
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST03139573 10/02/2020 3.0 1.50 1.50 1.50 1.50 1.50 1.50 1.50 10.50
+
+History: ST02995320 18/11/2019 1.1 1.50 1.50 1.50 1.00 1.50 1.50 1.50 10.00 ST02953393 28/10/2019 1.7 1.00 1.50 1.50 1.50 1.50 1.50 1.50 10.00 ST02926101 14/10/2019 1.4 1.00 1.50 1.50 1.50 1.50 1.50 1.00 9.50 ST02830125 26/08/2019 2.2 1.00 1.50 1.50 1.50 1.00 1.50 1.0 9.00 ST02790792 05/08/2019 1.4 1.00 1.50 1.50 1.50 1.00 1.50 1.00 9.00
+
+Next Appointment: Recall days 28 days Recall date 09/03/2020
+
+Comment: Please note that the Warfarin dose on INR request form is different from the previously prescribed dose. The dose on the request form is accepted as the dose that was actually taken by the patient.
+Episode	ST02995320
+Date collected	18/11/2019
+Time collected	
+Authorised by Dr RK Lohlun on 18/11/2019 at 16:01
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment Permanent Other drugs zocor, enalapril
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02995320 18/11/2019 1.1 1.50 1.50 1.50 1.00 1.50 1.50 1.50 10.00
+
+History: ST02953393 28/10/2019 1.7 1.00 1.50 1.50 1.50 1.50 1.50 1.50 10.00 ST02926101 14/10/2019 1.4 1.00 1.50 1.50 1.50 1.50 1.50 1.00 9.50 ST02830125 26/08/2019 2.2 1.00 1.50 1.50 1.50 1.00 1.50 1.00 9.00 ST02790792 05/08/2019 1.4 1.00 1.50 1.50 1.50 1.00 1.50 1.0 9.00 ST02730617 08/07/2019 2.3 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50
+
+Next Appointment: Recall days 14 days Recall date 02/12/2019
+
+Comment: Please note that the Warfarin dose on INR request form is different from the previously prescribed dose. The dose on the request form is accepted as the dose that was actually taken by the patient.
+INR subtherapeutic. Warfarin dose increased by 2.5mg/week. Repeat INR in 14 days.
+
+Episode	ST02953393
+Date collected	28/10/2019
+Time collected	07:00
+Authorised by Dr W Cerfontein on 29/10/2019 at 08:48
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment Permanent
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02953393 28/10/2019 1.7 1.00 1.50 1.50 1.50 1.50 1.50 1.50 10.00
+
+History: ST02926101 14/10/2019 1.4 1.00 1.50 1.50 1.50 1.50 1.50 1.00 9.50 ST02830125 26/08/2019 2.2 1.00 1.50 1.50 1.50 1.00 1.50 1.00 9.00 ST02790792 05/08/2019 1.4 1.00 1.50 1.50 1.50 1.00 1.50 1.00 9.00 ST02730617 08/07/2019 2.3 1.00 1.50 1.00 1.50 1.00 1.50 1.0 8.50 ST02671318 10/06/2019 2.8 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50
+
+Next Appointment: Recall days 14 days Recall date 12/11/2019
+
+Comment: increase dose
+Episode	ST02926101
+Date collected	14/10/2019
+Time collected	07:00
+Authorised by Dr EJ Gantana on 15/10/2019 at 08:41
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment Permanent
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02926101 14/10/2019 1.4 1.00 1.50 1.50 1.50 1.50 1.50 1.00 9.50
+
+History: ST02830125 26/08/2019 2.2 1.00 1.50 1.50 1.50 1.00 1.50 1.00 9.00 ST02790792 05/08/2019 1.4 1.00 1.50 1.50 1.50 1.00 1.50 1.00 9.00 ST02730617 08/07/2019 2.3 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02671318 10/06/2019 2.8 1.00 1.50 1.00 1.50 1.00 1.50 1.0 8.50 ST02608497 13/05/2019 1.9 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50
+
+Next Appointment: Recall days 14 days Recall date 29/10/2019
+
+Comment: INR subtherapeutic. Warfarin dose increased by 2.5mg/week. Repeat INR in 14 days.
+Please check compliance.
+
+Episode	ST02830125
+Date collected	26/08/2019
+Time collected	07:05
+Authorised by Dr W Cerfontein on 27/08/2019 at 11:31
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment Permanent
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02830125 26/08/2019 2.2 1.00 1.50 1.50 1.50 1.00 1.50 1.00 9.00
+
+History: ST02790792 05/08/2019 1.4 1.00 1.50 1.50 1.50 1.00 1.50 1.00 9.00 ST02730617 08/07/2019 2.3 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02671318 10/06/2019 2.8 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02608497 13/05/2019 1.9 1.00 1.50 1.00 1.50 1.00 1.50 1.0 8.50 ST02555356 15/04/2019 1.9 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50
+
+Next Appointment: Recall days 28 days Recall date 24/09/2019
+
+Comment: continue dose
+Episode	ST02790792
+Date collected	05/08/2019
+Time collected	07:10
+Authorised by Dr C Chetty on 05/08/2019 at 16:41
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment Permanent
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02790792 05/08/2019 1.4 1.00 1.50 1.50 1.50 1.00 1.50 1.00 9.00
+
+History: ST02730617 08/07/2019 2.3 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02671318 10/06/2019 2.8 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02608497 13/05/2019 1.9 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02555356 15/04/2019 1.9 1.00 1.50 1.00 1.50 1.00 1.50 1.0 8.50 ST02496484 18/03/2019 1.2 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50
+
+Next Appointment: Recall days 14 days Recall date 19/08/2019
+
+Comment: INR subtherapeutic. Warfarin dose increased by 2.5mg/week. Repeat INR in 14 days.
+Episode	ST02730617
+Date collected	08/07/2019
+Time collected	09:00
+Authorised by Dr E Nell on 09/07/2019 at 09:00
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment Permanent
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02730617 08/07/2019 2.3 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50
+
+History: ST02671318 10/06/2019 2.8 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02608497 13/05/2019 1.9 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02555356 15/04/2019 1.9 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02496484 18/03/2019 1.2 1.00 1.50 1.00 1.50 1.00 1.50 1.0 8.50 ST02417953 11/02/2019 2.3 1.00 1.00 1.00 1.50 1.00 1.00 1.50 8.00
+
+Next Appointment: Recall days 28 days Recall date 06/08/2019
+
+Episode	ST02671318
+Date collected	10/06/2019
+Time collected	07:15
+Authorised by Dr E Nell on 11/06/2019 at 11:34
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment Permanent
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02671318 10/06/2019 2.8 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50
+
+History: ST02608497 13/05/2019 1.9 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02555356 15/04/2019 1.9 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02496484 18/03/2019 1.2 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02417953 11/02/2019 2.3 1.00 1.00 1.00 1.50 1.00 1.00 1.5 8.00 ST02387812 28/01/2019 1.1 1.00 1.00 1.00 1.50 1.00 1.00 1.50 8.00
+
+Next Appointment: Recall days 28 days Recall date 09/07/2019
+
+Episode	ST02608497
+Date collected	13/05/2019
+Time collected	07:05
+Authorised by Dr E Nell on 13/05/2019 at 16:09
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment 3 months
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02608497 13/05/2019 1.9 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50
+
+History: ST02555356 15/04/2019 1.9 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02496484 18/03/2019 1.2 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02417953 11/02/2019 2.3 1.00 1.00 1.00 1.50 1.00 1.00 1.50 8.00 ST02387812 28/01/2019 1.1 1.00 1.00 1.00 1.50 1.00 1.00 1.5 8.00 ST02289438 27/11/2018 2.2 1.50 1.00 1.50 1.00 1.50 1.00 1.50 9.00
+
+Next Appointment: Recall days 28 days Recall date 10/06/2019
+
+Episode	ST02555356
+Date collected	15/04/2019
+Time collected	09:00
+Authorised by Dr S Irusen *** on 16/04/2019 at 07:34
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment 3 months
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02555356 15/04/2019 1.9 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50
+
+History: ST02496484 18/03/2019 1.2 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50 ST02417953 11/02/2019 2.3 1.00 1.00 1.00 1.50 1.00 1.00 1.50 8.00 ST02387812 28/01/2019 1.1 1.00 1.00 1.00 1.50 1.00 1.00 1.50 8.00 ST02289438 27/11/2018 2.2 1.50 1.00 1.50 1.00 1.50 1.00 1.5 9.00 ST02261406 12/11/2018 1.8 1.50 1.00 1.00 1.00 1.50 1.00 1.00 8.00
+
+Next Appointment: Recall days 28 days Recall date 14/05/2019
+
+Comment: Continue same dosage.
+Episode	ST02496484
+Date collected	18/03/2019
+Time collected	07:30
+Authorised by Dr C Chetty on 19/03/2019 at 07:54
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment 3 months
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02496484 18/03/2019 1.2 1.00 1.50 1.00 1.50 1.00 1.50 1.00 8.50
+
+History: ST02417953 11/02/2019 2.3 1.00 1.00 1.00 1.50 1.00 1.00 1.50 8.00 ST02387812 28/01/2019 1.1 1.00 1.00 1.00 1.50 1.00 1.00 1.50 8.00 ST02289438 27/11/2018 2.2 1.50 1.00 1.50 1.00 1.50 1.00 1.50 9.00 ST02261406 12/11/2018 1.8 1.50 1.00 1.00 1.00 1.50 1.00 1.0 8.00 ST02235479 29/10/2018 1.1 1.50 1.00 1.00 1.00 1.00 1.00 1.00 7.50
+
+Next Appointment: Recall days 14 days Recall date 02/04/2019
+
+Comment: INR subtherapeutic. Warfarin dose increased by 2.5mg/week. Repeat INR in 14 days.
+Episode	ST02417953
+Date collected	11/02/2019
+Time collected	07:05
+Authorised by Dr W Cerfontein on 11/02/2019 at 16:54
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment 3 months
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02417953 11/02/2019 2.3 1.00 1.00 1.00 1.50 1.00 1.00 1.50 8.00
+
+History: ST02387812 28/01/2019 1.1 1.00 1.00 1.00 1.50 1.00 1.00 1.50 8.00 ST02289438 27/11/2018 2.2 1.50 1.00 1.50 1.00 1.50 1.00 1.50 9.00 ST02261406 12/11/2018 1.8 1.50 1.00 1.00 1.00 1.50 1.00 1.00 8.00 ST02235479 29/10/2018 1.1 1.50 1.00 1.00 1.00 1.00 1.00 1.0 7.50
+
+Next Appointment: Recall days 28 days Recall date 11/03/2019
+
+Comment: continue dose
+Episode	ST02387812
+Date collected	28/01/2019
+Time collected	07:10
+Authorised by Dr C Chetty on 29/01/2019 at 08:43
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment 3 months
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02387812 28/01/2019 1.1 1.00 1.00 1.00 1.50 1.00 1.00 1.50 8.00
+
+History: ST02289438 27/11/2018 2.2 1.50 1.00 1.50 1.00 1.50 1.00 1.50 9.00 ST02261406 12/11/2018 1.8 1.50 1.00 1.00 1.00 1.50 1.00 1.00 8.00 ST02235479 29/10/2018 1.1 1.50 1.00 1.00 1.00 1.00 1.00 1.00 7.50
+
+Next Appointment: Recall days 14 days Recall date 12/02/2019
+
+Comment: Warfarin dose on INR request form is noted to be different from the previously prescribed dose. The dose on the request form is accepted as the dose actually taken by the patient. INR subtherapeutic. Warfarin dose increased by 2.5mg/week. Repeat INR in 14 days. Please confirm compliance.
+Episode	ST02289438
+Date collected	27/11/2018
+Time collected	07:00
+Authorised by Dr S Irusen *** on 28/11/2018 at 08:06
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment 3 months
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02289438 27/11/2018 2.2 1.50 1.00 1.50 1.00 1.50 1.00 1.50 9.00
+
+History: ST02261406 12/11/2018 1.8 1.50 1.00 1.00 1.00 1.50 1.00 1.00 8.00 ST02235479 29/10/2018 1.1 1.50 1.00 1.00 1.00 1.00 1.00 1.00 7.50
+
+Next Appointment: Recall days 29 days Recall date 27/12/2018
+
+Comment: INR is therapeutic. Please continue same dosage.
+Episode	ST02261406
+Date collected	12/11/2018
+Time collected	07:00
+Authorised by Dr CM Griesel on 13/11/2018 at 08:40
+
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment 3 months
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02261406 12/11/2018 1.8 1.50 1.00 1.00 1.00 1.50 1.00 1.00 8.00
+
+History: ST02235479 29/10/2018 1.1 1.50 1.00 1.00 1.00 1.00 1.00 1.00 7.50
+
+Next Appointment: Recall days 28 days Recall date 11/12/2018
+
+Episode	ST02235479
+Date collected	29/10/2018
+Time collected	07:10
+Authorised by Dr IMI Abdullah (ST)** on 29/10/2018 at 17:26
+Anticoagulant Dosing: Indication for anticoagulation SLE Anticoagulant Warfarin Target therapeutic range 2.0 - 3.0 Duration of treatment 3 months
+Recommended Treatment Regime: Warfarin 5mg tablets Episode No Date INR Sun Mon Tue Wed Thu Fri Sat Tablets/wk ST02235479 29/10/2018 1.1 1.50 1.00 1.00 1.00 1.00 1.00 1.00 7.50
+
+Next Appointment: Recall days 7 days Recall date 05/11/2018
+
+Comment: INR below therapeutic range. Increase dose by 2.5mg/week. Dosing done according to the previous dosage written on request form. Please correlate with history.
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Instrument on 02/03/2020 at 14:44
+
+HIV-1/2 Ab/Ag (Screen): HIV-1/2 Ab/Ag ELISA Result Negative
+Comment: A negative result does not completely rule out the possibility of an infection with HIV, e.g., patients in the HIV "Window Period". Note: Children who have been on treatment from an early stage of infection may be antibody negative.
+Please interpret results in the context of clinical findings and other investigations and/or laboratory results. Please repeat sample if clinically indicated.
+
+
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by ***Dr KL Mahlakwane*** on 14/11/2017 at 12:36
+
+HIV-1/2 Ab/Ag (Screen): HIV-1/2 Ab/Ag ELISA Result Negative
+Comment: A negative result does not completely rule out the possibility of an infection with HIV, e.g., patients in the HIV "Window Period". Note: Children who have been on treatment from an early stage of infection may be antibody negative.
+Please interpret results in the context of clinical findings and other investigations and/or laboratory results. Please repeat sample if clinically indicated.
+
+
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Instrument on 03/03/2020 at 13:58
+
+Hepatitis B Surface Ag: Surface Antigen Result Negative
+Comment: No evidence of HBV infection. If acute HBV infection is suspected, HBV core IgM and/or follow up HBsAg testing is advised.
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by ***Dr KL Mahlakwane*** on 14/11/2017 at 12:36
+
+Hepatitis B Surface Ag: Surface Antigen Result Negative
+Comment: No evidence of HBV infection. If acute HBV infection is suspected, HBV core IgM and/or follow up HBsAg testing is advised.
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Instrument on 03/03/2020 at 13:04
+
+Hepatitis B Surface Ab: Surface Ab Result Positive Surface Ab Value 34 mIU/mL
+Comment: HBsAb titre > 10 mIU/mL indicates immunity to HBV.
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by ***Dr KL Mahlakwane*** on 14/11/2017 at 12:36
+
+Hepatitis B Surface Ab: Surface Ab Result Positive Surface Ab Value 55 mIU/mL
+Comment: HBsAb titre > 10 mIU/mL indicates immunity to HBV.
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Instrument on 03/03/2020 at 13:04
+
+Hepatitis B Core Total Ab: Core Total Ab Result Negative
+Comment: No evidence of exposure to HBV.
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by ***Dr KL Mahlakwane*** on 14/11/2017 at 12:36
+
+Hepatitis B Core Total Ab: Core Total Ab Result Negative
+Comment: No evidence of exposure to HBV.
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Instrument on 03/03/2020 at 13:04
+
+Hepatitis C Antibody: Total Ab Result Negative
+Comment: The absence of HCV antibodies suggests no past or current HCV infection, although a negative result does not entirely exclude the possibility of HCV infection since HCV antibodies may be undetectable in certain stages of the infection and in certain clinical conditions.
+NOTE: Hepatitis C seroconversion is often delayed and may take up to 15 weeks to become positive following infection.
+
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by ***Dr KL Mahlakwane*** on 14/11/2017 at 12:36
+
+Hepatitis C Antibody: Total Ab Result Negative
+Comment: The absence of HCV antibodies suggests no past or current HCV infection, although a negative result does not entirely exclude the possibility of HCV infection since HCV antibodies may be undetectable in certain stages of the infection and in certain clinical conditions.
+NOTE: Hepatitis C seroconversion is often delayed and may take up to 15 weeks to become positive following infection.
+
+Episode	ST03183481
+Date collected	02/03/2020
+Time collected	10:08
+Authorised by Dr NP Nkosi on 03/03/2020 at 17:26
+
+Hepatitis B Immune Marker Interpretation:
+HBsAb HB core IgG Interpretation Pos Neg Vaccine induced immunity to HBV Pos Pos Immunity due to natural HBV infection Neg Neg No immunity to HBV Neg Pos Exposure to HBV. HBsAg testing advised to exclude
+current infection
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by ***Dr KL Mahlakwane*** on 14/11/2017 at 12:36
+Hepatitis B Immune Marker Interpretation:
+HBsAb HB core IgG Interpretation Pos Neg Vaccine induced immunity to HBV Pos Pos Immunity due to natural HBV infection Neg Neg No immunity to HBV Neg Pos Exposure to HBV. HBsAg testing advised to exclude
+current infection
+Episode	ST03117652
+Date collected	29/01/2020
+Time collected	
+Authorised by van Zyl, A Dr (Pathologist) on 31/01/2020 at 15:32
+CYTOPATHOLOGY REPORT
+Cytology Number: STYN/20-5746-A
+CLINICAL HISTORY:
+16 Year old girl. Presents with pubic nodule, 1 x 1cm, firm.
+FINAL DIAGNOSIS:
+ACUTE INFLAMMATION.
+RECOMMENDATION:
+Reaspirate if lesion does not resolve after appropriate antibiotic
+therapy.
+Microbiological culture recommended.
+Episode	ST03052523
+Date collected	19/12/2019
+Time collected	
+Authorised by L Kilian ** on 20/12/2019 at 12:53
+
+Peripheral Blood Morphology
+Platelet Morphology: SLIGHT PLATELET CLUMPING WITH A MODERATE NUMBER OF LARGE PLATELETS SEEN ON SLIDE.
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by ML Swartz on 10/12/2018 at 16:45
+
+Anti-cardiolipin antibody (ELISA):
+IgG result Negative Value 8 GPL-U/mL
+
+Episode	ST01857294
+Date collected	18/04/2018
+Time collected	10:25
+Authorised by T Rhoda on 23/04/2018 at 15:58
+Anti-cardiolipin antibody (ELISA):
+IgG result Negative Value 4 GPL-U/mL
+
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by AJ Roux on 13/11/2017 at 15:15
+Anti-cardiolipin antibody (ELISA):
+IgG result Negative Value 10 GPL-U/mL
+
+Episode	ST02304532
+Date collected	05/12/2018
+Time collected	07:55
+Authorised by Dr MLV Watkins** on 21/12/2018 at 14:10
+Anti-beta 2 glycoprotein-1 antibody (FEIA): IgG result Negative Value 0.9 U/mL IgM Result Negative Value 0.9 U/mL
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by Dr MLV Watkins** on 17/11/2017 at 14:27
+Anti-beta 2 glycoprotein-1 antibody (FEIA): IgG result Negative Value 2.6 U/mL IgM Result Negative Value 2.9 U/mL
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Dr MLV Watkins** on 18/01/2018 at 14:36
+Anti-beta 2 glycoprotein-1 antibody (FEIA): IgG result Negative Value 2.9 U/mL IgM Result Negative Value 5.3 U/mL
+Episode	ST02102992
+Date collected	22/08/2018
+Time collected	10:32
+Glucose (random)
+Specimen received is unsuitable for test. Fluoride specimen required
+Date Collected	25/07/2018	02/11/2017	31/10/2017	15/09/2017
+Time Collected	12:00	11:40	11:00	17:30
+Episode	ST02047653	ST01546498	ST01546850	ST01450654
+White Cell Cou	10.36	9.55	8.93	9.06
+Episode	ST01729714
+Date collected	14/02/2018
+Time collected	11:00
+Authorised by M Hoffman on 15/02/2018 at 01:42
+Chloride 95 L mmol/L 98 - 107
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Instrument on 07/11/2017 at 12:18
+Chloride 94 L mmol/L 98 - 107
+
+Episode	ST01542630
+Date collected	01/11/2017
+Time collected	
+Authorised by Instrument on 01/11/2017 at 11:45
+Chloride 96 L mmol/L 98 - 107
+
+Episode	ST01621985
+Date collected	12/12/2017
+Time collected	10:40
+Authorised by LM Brace on 13/12/2017 at 11:23
+Microscopy: Leucocytes 100000 /mL Erythrocytes 0 /mL
+Episode	ST01545987
+Date collected	01/11/2017
+Time collected	13:00
+Authorised by LM Brace on 02/11/2017 at 15:04
+Microscopy: Leucocytes 30000 /mL Erythrocytes 0 /mL
+Episode	ST01621985
+Date collected	12/12/2017
+Time collected	10:40
+Authorised by LM Brace on 13/12/2017 at 11:23
+Bacterial Culture:
+No growth after 1 day
+
+Episode	ST01545987
+Date collected	01/11/2017
+Time collected	13:00
+Authorised by LM Brace on 03/11/2017 at 11:43
+Bacterial Culture:
+No growth after 2 days
+
+Episode	ST01582852
+Date collected	21/11/2017
+Time collected	
+Authorised by Bates, WD Dr (Pathologist) ** on 30/11/2017 at 07:40
+EPISODE NUMBER: ST01582852
+
+CLINICAL:
+14 year old girl with nephrotic syndrome. Complication by DVT.
+Creatinine 31. Proteinuria 7. ANF negative. dsDNA positive.
+MICROSCOPIC:
+Sections show renal biopsy with 40% medulla and 60% cortex in
+which up to 46 glomeruli are seen. Glomeruli show mild to
+moderate thickening of capillary walls with mild mesangial
+proliferation. No segmental proliferative lesions are seen.
+In the interstitium mild chronic inflammation is present, as well
+as mild fibrosis but tubules and blood vessels appear normal.
+IMMUNOFLUORESCENCE:
+13 Glomeruli
+IgG and C3 : ++ granular along capillary wall
+IgA and IgM : + granular along capillary wall.
+ELECTRON MICROSCOPY:
+Seventeen glomeruli are present on the toluidine blue sections.
+Mild to moderate thickening of most capillary walls is noted with
+probable widespread subepithelial deposits.
+Ultrastructural examination confirms widespread subepithelial
+deposits many with spikes and some incorporated. (Stages II and
+III of the membranous GN pattern.)
+Deposits are also seen in mesangial areas.
+Eight TRIBs are seen in a grid space.
+COMMENT:
+The features fit with membranous GN. In a young girl with
+positive dsDNA and TRIBs on EM in the biopsy, the possibility of
+SLE should be strongly considered and looked for or excluded.
+If this is viewed as lupus nephritis, then it would be Class V.
+Activity 2/24; Chronicity 0/12.
+PATHOLOGIST:
+PROF WD BATES
+/sa
+Episode	ST01580648
+Date collected	19/11/2017
+Time collected	
+Total complement (classic)
+Specimen received is unsuitable for test. Specimen on ice required
+Episode	ST01577504
+Date collected	17/11/2017
+Time collected	
+Total complement (classic)
+Specimen received is unsuitable for test. Specimen on ice required
+Episode	ST01580648
+Date collected	19/11/2017
+Time collected	
+Anti-streptolysin O titre (automated)
+Regret, test not done as specimen was lost in transit
+Episode	ST01577504
+Date collected	17/11/2017
+Time collected	
+Authorised by T Rhoda on 20/11/2017 at 09:11
+Anti-streptolysin O Titre 242 IU/mL
+Newborn to 6 years Up to 100 IU/mL 6 years to 12 years Up to 250 IU/mL 12 years onwards Up to 200 IU/mL The above reference ranges are guidelines, as there may be variability of ASO values within populations and seasons. An increase in ASO value 2 or more weeks after the initial result is supportive of a prior streptococcal infection. It is unusual for skin infections to produce a significant rise in ASO titre.
+Episode	ST01580648
+Date collected	19/11/2017
+Time collected	
+Anti-DNase B
+Regret, test not done as specimen was lost in transit
+Episode	ST01577504
+Date collected	17/11/2017
+Time collected	
+Authorised by T Rhoda on 20/11/2017 at 09:11
+
+Anti-DNase B: Result 276.0 IU/mL
+Children Up to 75 IU/mL Adults Up to 200 IU/mL Anti-DNase B is an antibody test for both skin and throat infections.
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Anti-beta 2 glycoprotein-1 Ab (ELISA)
+This test request was replaced by another test. Please refer to other laboratory results.
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by ***Dr KL Mahlakwane*** on 14/11/2017 at 12:36
+
+Hepatitis A IgM: IgM Result Negative
+Comment: The absence of HAV IgM antibodies suggests no recent HAV infection. Please note the incubation period of HAV infection is 3-5 weeks. Follow up test is advised if exposure to HAV is suspected in the last 4 weeks.
+Episode	ST01568081
+Date collected	13/11/2017
+Time collected	16:00
+Authorised by ***Dr KL Mahlakwane*** on 14/11/2017 at 12:36
+
+Hepatitis A Total Ab: Total Ab Result Negative
+Comment: No evidence of past infection or vaccine induced immunity. The patient may thus be susceptible to HAV infection.
+Episode	ST01554640
+Date collected	07/11/2017
+Time collected	08:10
+Authorised by Dr L Uuyuni ** on 16/11/2017 at 15:20
+Run number UR72-2
+Urine protein electrophoresis interpretation: Global proteinuria for immunofixation on urine protein electrophoresis. For immunofixation.(Discussed with Dr Meiring)
+Dr L Uuyuni(Registrar) and Dr M Hoffmann(Consultant)
+
+Episode	ST01554640
+Date collected	07/11/2017
+Time collected	08:10
+Authorised by Dr L Uuyuni ** on 16/11/2017 at 15:21
+
+Urine immunofixation: Run number IF179-1
+Urine immunofixation electrophoresis interpretation: No clear monoclonal band seen on urine immunofixation.
+Dr L Uuyuni(Registrar) and Dr M Rensburg(Consultant)
+
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Test Request Details
+No test set specified on request form
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Instrument on 07/11/2017 at 12:18
+Total protein 55 L g/L 57 - 80
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Instrument on 07/11/2017 at 17:18
+Alkaline phosphatase (ALP) 151 U/L 50 - 162
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Instrument on 07/11/2017 at 17:18
+Gamma-glutamyl transferase (GGT) 93 H U/L 4 - 24
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by I Smit** on 07/11/2017 at 17:27
+Lactate dehydrogenase (LD) 309 H U/L 100 - 190
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by Dr L Uuyuni ** on 15/11/2017 at 11:23
+Alpha 1 globulin 5 g/L Alpha 2 globulin 16 g/L Beta globulin 12 g/L Gamma globulin 15 g/L
+Serum protein electrophoresis interpretation: ALBUMIN - 7 G/L Presence of decreased albumin with increased alpha 2 and beta fractions. Pattern is consistent with a protein losing state.
+Dr L Uuyuni(Registrar)& Prof AE Zemlin.
+
+Episode	ST01554167
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by AJ Roux on 20/11/2017 at 17:01
+
+Anti-parietal cell antibody (IFA): Result Negative
+Episode	ST01558760
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by **JJ Grobbelaar on 10/11/2017 at 06:25
+Episode number: ST01558760.
+
+Factor V Leiden Result:
+
+Factor V Leiden = Normal
+
+Episode	ST01558760
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by **JJ Grobbelaar on 10/11/2017 at 06:25
+Episode number: ST01558760.
+
+Factor II (Prothrombin)Result:
+
+Factor II = Normal
+
+Episode	ST01558761
+Date collected	07/11/2017
+Time collected	08:00
+Authorised by CC Swanepoel on 05/01/2018 at 14:12
+JAK2 G1849T (V617F) mutation detection.
+
+Episode number: ST01558761
+
+Result summary: No V617F mutation was detected in Exon 14 of the JAK2 gene. NCBI Reference sequence: NC_000009.12. Interpretation: The proband was clinically diagnosed with Myeloproliferative neoplasm (MPN). DNA was extracted and the disease-acquired JAK2 V617F mutation analysed by allele-specific PCR. This mutation results in the alteration of the amino acids, which affects the protein function. Test scope and limitations: This mutation has been reported (Baxter et al, 2005)to be present in: Polycythaemia vera97% of cases Essential thrombocythaemia57% of cases Idiopathic myelofibrosis50% of cases
+
+The assay limitations are subject to DNA degradation or heparin or other agents that inhibit PCR. The assay cannot reliably detect less than 5 positive cells per 100 normal cells.
+
+Reference: 1.Baxter et al, (2005). Acquired mutation of the tyrosine kinase JAK2 in human myeloproliferative disorders. Lancet, 365, 1054-61.
+
+Procedure: DNA extracted from blood is used for the analysis. Mutations are detected using allele-specific PCR.
+
+Episode	ST01558761
+Date collected	07/11/2017
+Time collected	08:00
+JAK2 exon 12 mutations
+Regret, test not done as the specimen was inadequate and/or of poor quality
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by Dr L Uuyuni ** on 07/11/2017 at 11:47
+Homocysteine 5.8 umol/L 4.0 - 15.4
+Samples should be collected in EDTA tubes, placed on ice and transported to the laboratory without delay. Samples must be separated within one hour. Homocysteine metabolism is affected by diet (folate, B6 and B12), age, pregnancy and smoking. Patients with levels above the reference range should be given oral folic acid and vitamin B6.
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by Dr N Davids** on 13/11/2017 at 13:30
+
+Lupus Anticoagulant:
+Screen Patient 107.40 sec Screen Control 35.90 sec Screen Ratio 2.99 H <1.20
+
+Confirm Patient 43.80 sec Confirm Control 31.60 sec Confirm Ratio 1.39
+
+Normalised LAC Ratio 2.16 H <1.20
+
+LA comment: The Lupus anticoagulant is strongly positive, please perform ACA/?2-GP in order to make a diagnosis of Antiphopholipid syndrome.
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by Dr N Davids** on 13/11/2017 at 15:43
+
+Protein S:
+Protein S (Functional) 222 H % 55 - 135
+
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by Dr N Davids** on 13/11/2017 at 15:31
+Protein C: Protein C (Chromogenic) 110 % 70 - 140
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by T Christie on 06/11/2017 at 15:34
+Rheumatoid factor 16 H IU/mL <14
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by AJ Roux on 14/11/2017 at 15:25
+Anti-proteinase 3 antibody (ELISA): Result Negative Value 0.3 U/mL
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by AJ Roux on 14/11/2017 at 15:25
+Anti-myeloperoxidase antibody (ELISA): Result Negative Value 0.0 U/mL
+Episode	ST01550560
+Date collected	04/11/2017
+Time collected	
+Authorised by M Nichols on 05/11/2017 at 13:48
+T.pallidum antibodies Result Non-reactive
+No evidence of current or previous syphilis. However, the treponemal antibody test may be non-reactive in very early primary syphilis and repeat testing in two weeks is suggested if clinically indicated.
+Episode	ST01542630
+Date collected	01/11/2017
+Time collected	
+Authorised by I Smit** on 01/11/2017 at 11:53
+Lipase 11 U/L 4 - 29
+Date Collected	31/10/2017
+Time Collected	11:00
+Episode	ST01546850
+Haemoglobin	9.3 L
+Date Collected	31/10/2017
+Time Collected	11:00
+Episode	ST01546850
+MCV	90.4
+Page 1
+Print Page
